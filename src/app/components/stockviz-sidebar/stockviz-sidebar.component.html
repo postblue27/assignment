@@ -1,0 +1,14 @@
+<aside [ngClass]="{'aside-active': display}">
+    <button class="sidebar-button" type="button" (click)="showCompaniesDialog()">
+        <span class="material-symbols-outlined">
+        search
+        </span>
+        <span>{{display ? 'Find company' : ''}}</span>
+    </button>
+    <button class="sidebar-button no-label" type="button" (click)="display = !display" >
+        <span class="material-symbols-outlined" [ngClass]="{'rotate-180': display, 'rotate-0': !display}">
+        start
+        </span>
+        <span>{{display ? 'Collapse' : ''}}</span>
+    </button>
+</aside>

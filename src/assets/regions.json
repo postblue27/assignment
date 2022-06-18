@@ -1,0 +1,68 @@
+[
+  {
+    "id": "US",
+    "name": "UNITED STATES",
+    "currency": "USD",
+    "currency_name": "dollar"
+  },
+  {
+    "id": "CA",
+    "name": "CANADA",
+    "currency": "CAD",
+    "currency_name": "dollar"
+  },
+  {
+    "id": "AU",
+    "name": "AUSTRALIA",
+    "currency": "AUD",
+    "currency_name": "dollar"
+  },
+  {
+    "id": "RU",
+    "name": "RUSSIA",
+    "currency": "RUB",
+    "currency_name": "rub"
+  },
+  {
+    "id": "NO",
+    "name": "NORWAY",
+    "currency": "NOK",
+    "currency_name": "kr"
+  },
+  {
+    "id": "IN",
+    "name": "INDIA",
+    "currency": "INR",
+    "currency_name": "inr"
+  },
+  {
+    "id": "HK",
+    "name": "HONG KONG",
+    "currency": "CNY",
+    "currency_name": "cny"
+  },
+  {
+    "id": "DE",
+    "name": "GERMANY",
+    "currency": "EUR",
+    "currency_name": "euro"
+  },
+  {
+    "id": "CH",
+    "name": "SWITZERLAND",
+    "currency": "CHF",
+    "currency_name": "chf"
+  },
+  {
+    "id": "EU",
+    "name": "EUROPE",
+    "currency": "EUR",
+    "currency_name": "euro"
+  },
+  {
+    "id": "UK",
+    "name": "UNITED KINGDOM",
+    "currency": "USD",
+    "currency_name": "gbp"
+  }
+]

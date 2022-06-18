@@ -1,0 +1,41 @@
+<div class="company-card">
+    <div class="company-header">
+        <div class="company-header-item"><h2>{{company.name}}</h2></div>
+        <div class="company-header-item-end">
+            <span class="label-text ml-1">NASDAQ: <span class="info-text">{{company.id}}</span></span>
+            <span class="label-text ml-1">Currency: <span class="info-text">{{companyRegion.currency}}</span></span>
+        </div>
+    </div> 
+    <p-divider></p-divider>
+    <div class="card-body">
+        <div class="card-body-item">
+            <label for="region" class="label-text">Region</label>
+            <span id="region">{{companyRegion.name}}</span>
+        </div>
+        <div class="card-body-item">
+            <label for="sector" class="label-text">Sector</label>
+            <span id="sector">{{company.sector}}</span>
+        </div>
+        <div class="card-body-item">
+            <label for="industry" class="label-text">Industry</label>
+            <span id="industry">{{company.industry}}</span>
+        </div>
+        <div class="card-body-item">
+            <label for="stockPrice" class="label-text">Stock Price</label>
+            <span id="stockPrice">{{companyRegion.currency_name | formatCurrency}} {{company.price}}</span>
+        </div>
+        <div class="card-body-item">
+            <label for="employees" class="label-text">Employees</label>
+            <span id="employees">{{company.employees | formatNumberComma}}</span>
+        </div>
+    </div>
+    <p-divider></p-divider>
+    <div class="company-description" [ngClass]="{'full-text': isDisplayFullDescription}">{{descriptionPlaceholder}}</div>
+    <div class="read-more-button-container">
+        <button (click)="isDisplayFullDescription = !isDisplayFullDescription" 
+            label="{{ isDisplayFullDescription ? 'Read Less': 'Read More' }}" 
+            [ngClass]="{'p-button-secondary': isDisplayFullDescription}"
+            pButton pRipple class="read-more-button p-button-outlined" type="button" >
+        </button>
+    </div>
+</div>

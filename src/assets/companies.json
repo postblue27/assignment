@@ -1,0 +1,4592 @@
+[
+	{
+		"id": "AMZN",
+		"name": "Amazon.com, Inc.",
+		"price": 2785.58,
+		"sector": "Consumer Cyclical",
+		"industry": "RETAIL CATALOG & MAIL ORDER HOUSES",
+		"employees": 1608000,
+		"region_id": "US"
+	},
+	{
+		"id": "GOOG",
+		"name": "Alphabet Inc.",
+		"price": 2677.32,
+		"sector": "Communication Services",
+		"industry": "COMPUTER PROGRAMMING DATA PROCESSING ETC.",
+		"employees": 156500,
+		"region_id": "US"
+	},
+	{
+		"id": "GOOGL",
+		"name": "Alphabet Inc.",
+		"price": 2668.4,
+		"sector": "Communication Services",
+		"industry": "COMPUTER PROGRAMMING DATA PROCESSING ETC.",
+		"employees": 156500,
+		"region_id": "US"
+	},
+	{
+		"id": "BKNG",
+		"name": "Booking Holdings Inc.",
+		"price": 2035.47,
+		"sector": "Consumer Cyclical",
+		"industry": "TRANSPORTATION SERVICES",
+		"employees": 20097,
+		"region_id": "US"
+	},
+	{
+		"id": "AVGOP",
+		"name": "Broadcom Inc.",
+		"price": 1854.13,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 20000,
+		"region_id": "US"
+	},
+	{
+		"id": "MELI",
+		"name": "MercadoLibre, Inc.",
+		"price": 984.76,
+		"sector": "Consumer Cyclical",
+		"industry": "BUSINESS SERVICES NEC",
+		"employees": 29957,
+		"region_id": "US"
+	},
+	{
+		"id": "TSLA",
+		"name": "Tesla, Inc.",
+		"price": 858.97,
+		"sector": "Consumer Cyclical",
+		"industry": "MOTOR VEHICLES & PASSENGER CAR BODIES",
+		"employees": 99290,
+		"region_id": "US"
+	},
+	{
+		"id": "ATRI",
+		"name": "Atrion Corporation",
+		"price": 712.85,
+		"sector": "Healthcare",
+		"industry": "SURGICAL & MEDICAL INSTRUMENTS & APPARATUS",
+		"employees": 667,
+		"region_id": "US"
+	},
+	{
+		"id": "FCNCA",
+		"name": "First Citizens BancShares, Inc.",
+		"price": 691.57,
+		"sector": "Financial Services",
+		"industry": "STATE COMMERCIAL BANKS",
+		"employees": 6578,
+		"region_id": "US"
+	},
+	{
+		"id": "ORLY",
+		"name": "O'Reilly Automotive, Inc.",
+		"price": 674.7,
+		"sector": "Consumer Cyclical",
+		"industry": "RETAIL AUTO & HOME SUPPLY STORES",
+		"employees": 82852,
+		"region_id": "US"
+	},
+	{
+		"id": "REGN",
+		"name": "Regeneron Pharmaceuticals, Inc.",
+		"price": 623.43,
+		"sector": "Healthcare",
+		"industry": "PHARMACEUTICAL PREPARATIONS",
+		"employees": 10368,
+		"region_id": "US"
+	},
+	{
+		"id": "ASML",
+		"name": "ASML Holding N.V.",
+		"price": 621.34,
+		"sector": "Technology",
+		"industry": "SPECIAL INDUSTRY MACHINERY NEC",
+		"employees": 29861,
+		"region_id": "US"
+	},
+	{
+		"id": "AVGO",
+		"name": "Broadcom Inc.",
+		"price": 597.02,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 20000,
+		"region_id": "US"
+	},
+	{
+		"id": "UHAL",
+		"name": "AMERCO",
+		"price": 586.14,
+		"sector": "Industrials",
+		"industry": "AUTO RENTAL & LEASING (NO DRIVERS)",
+		"employees": 14304,
+		"region_id": "US"
+	},
+	{
+		"id": "CHTR",
+		"name": "Charter Communications, Inc.",
+		"price": 557.75,
+		"sector": "Communication Services",
+		"industry": "CABLE & OTHER PAY TELEVISION SERVICES",
+		"employees": 93700,
+		"region_id": "US"
+	},
+	{
+		"id": "SIVB",
+		"name": "SVB Financial Group",
+		"price": 538.94,
+		"sector": "Financial Services",
+		"industry": "STATE COMMERCIAL BANKS",
+		"employees": 6567,
+		"region_id": "US"
+	},
+	{
+		"id": "IDXX",
+		"name": "IDEXX Laboratories, Inc.",
+		"price": 529.92,
+		"sector": "Healthcare",
+		"industry": "IN VITRO & IN VIVO DIAGNOSTIC SUBSTANCES",
+		"employees": 10350,
+		"region_id": "US"
+	},
+	{
+		"id": "COST",
+		"name": "Costco Wholesale Corporation",
+		"price": 527.65,
+		"sector": "Consumer Defensive",
+		"industry": "RETAIL VARIETY STORES",
+		"employees": 288000,
+		"region_id": "US"
+	},
+	{
+		"id": "LRCX",
+		"name": "Lam Research Corporation",
+		"price": 517.31,
+		"sector": "Technology",
+		"industry": "SPECIAL INDUSTRY MACHINERY NEC",
+		"employees": 16300,
+		"region_id": "US"
+	},
+	{
+		"id": "CACC",
+		"name": "Credit Acceptance Corporation",
+		"price": 513.255,
+		"sector": "Financial Services",
+		"industry": "PERSONAL CREDIT INSTITUTIONS",
+		"employees": 2073,
+		"region_id": "US"
+	},
+	{
+		"id": "COKE",
+		"name": "Coca-Cola Consolidated, Inc.",
+		"price": 475.42,
+		"sector": "Consumer Defensive",
+		"industry": "BOTTLED & CANNED SOFT DRINKS & CARBONATED WATERS",
+		"employees": 14100,
+		"region_id": "US"
+	},
+	{
+		"id": "INTU",
+		"name": "Intuit Inc.",
+		"price": 464.74,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 13500,
+		"region_id": "US"
+	},
+	{
+		"id": "POOL",
+		"name": "Pool Corporation",
+		"price": 456.74,
+		"sector": "Consumer Cyclical",
+		"industry": "WHOLESALE MISC DURABLE GOODS",
+		"employees": 5500,
+		"region_id": "US"
+	},
+	{
+		"id": "ADBE",
+		"name": "Adobe Inc.",
+		"price": 450.87,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 25988,
+		"region_id": "US"
+	},
+	{
+		"id": "ALGN",
+		"name": "Align Technology, Inc.",
+		"price": 442.05,
+		"sector": "Healthcare",
+		"industry": "ORTHOPEDIC PROSTHETIC & SURGICAL APPLIANCES & SUPPLIES",
+		"employees": 22540,
+		"region_id": "US"
+	},
+	{
+		"id": "MSTR",
+		"name": "MicroStrategy Incorporated",
+		"price": 436.75,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 2121,
+		"region_id": "US"
+	},
+	{
+		"id": "TECH",
+		"name": "Bio-Techne Corporation",
+		"price": 418.3,
+		"sector": "Healthcare",
+		"industry": "BIOLOGICAL PRODUCTS (NO DISGNOSTIC SUBSTANCES)",
+		"employees": 2700,
+		"region_id": "US"
+	},
+	{
+		"id": "MPWR",
+		"name": "Monolithic Power Systems, Inc.",
+		"price": 418.16,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 2209,
+		"region_id": "US"
+	},
+	{
+		"id": "DXCM",
+		"name": "DexCom, Inc.",
+		"price": 412.24,
+		"sector": "Healthcare",
+		"industry": "SURGICAL & MEDICAL INSTRUMENTS & APPARATUS",
+		"employees": 6300,
+		"region_id": "US"
+	},
+	{
+		"id": "ZBRA",
+		"name": "Zebra Technologies Corporation",
+		"price": 399.11,
+		"sector": "Technology",
+		"industry": "GENERAL INDUSTRIAL MACHINERY & EQUIPMENT",
+		"employees": 9800,
+		"region_id": "US"
+	},
+	{
+		"id": "RO.SW",
+		"name": "Roche Holding AG",
+		"price": 380.2,
+		"sector": "Healthcare",
+		"industry": "Drug Manufacturers General",
+		"employees": 100920,
+		"region_id": "US"
+	},
+	{
+		"id": "CTAS",
+		"name": "Cintas Corporation",
+		"price": 374.16,
+		"sector": "Industrials",
+		"industry": "MENS & BOYS FURNISHGS WORK CLOTHG & ALLIED GARMENTS",
+		"employees": 40000,
+		"region_id": "US"
+	},
+	{
+		"id": "ULTA",
+		"name": "Ulta Beauty, Inc.",
+		"price": 373.31,
+		"sector": "Consumer Cyclical",
+		"industry": "RETAIL RETAIL STORES NEC",
+		"employees": 16000,
+		"region_id": "US"
+	},
+	{
+		"id": "NFLX",
+		"name": "Netflix, Inc.",
+		"price": 358.79,
+		"sector": "Communication Services",
+		"industry": "VIDEO TAPE RENTAL",
+		"employees": 11300,
+		"region_id": "US"
+	},
+	{
+		"id": "HIFS",
+		"name": "Hingham Institution for Savings",
+		"price": 354.46,
+		"sector": "Financial Services",
+		"industry": "Banks Regional",
+		"employees": 83,
+		"region_id": "US"
+	},
+	{
+		"id": "MKTX",
+		"name": "MarketAxess Holdings Inc.",
+		"price": 348.44,
+		"sector": "Financial Services",
+		"industry": "SECURITY BROKERS DEALERS & FLOTATION COMPANIES",
+		"employees": 676,
+		"region_id": "US"
+	},
+	{
+		"id": "KLAC",
+		"name": "KLA Corporation",
+		"price": 339.56,
+		"sector": "Technology",
+		"industry": "OPTICAL INSTRUMENTS & LENSES",
+		"employees": 11300,
+		"region_id": "US"
+	},
+	{
+		"id": "MDB",
+		"name": "MongoDB, Inc.",
+		"price": 334.09,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 3223,
+		"region_id": "US"
+	},
+	{
+		"id": "SEDG",
+		"name": "SolarEdge Technologies, Inc.",
+		"price": 326.98,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 3964,
+		"region_id": "US"
+	},
+	{
+		"id": "ILMN",
+		"name": "Illumina, Inc.",
+		"price": 324.71,
+		"sector": "Healthcare",
+		"industry": "LABORATORY ANALYTICAL INSTRUMENTS",
+		"employees": 9800,
+		"region_id": "US"
+	},
+	{
+		"id": "ANSS",
+		"name": "ANSYS, Inc.",
+		"price": 312.33,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 5100,
+		"region_id": "US"
+	},
+	{
+		"id": "DJCO",
+		"name": "Daily Journal Corporation",
+		"price": 308.75,
+		"sector": "Communication Services",
+		"industry": " PUBLISHING OR PUBLISHING & PRINTING (NEWSPAPERS)",
+		"employees": 290,
+		"region_id": "US"
+	},
+	{
+		"id": "SNPS",
+		"name": "Synopsys, Inc.",
+		"price": 307.79,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 16361,
+		"region_id": "US"
+	},
+	{
+		"id": "ODFL",
+		"name": "Old Dominion Freight Line, Inc.",
+		"price": 306.87,
+		"sector": "Industrials",
+		"industry": "TRUCKING (NO LOCAL)",
+		"employees": 23663,
+		"region_id": "US"
+	},
+	{
+		"id": "ABMD",
+		"name": "Abiomed, Inc.",
+		"price": 306.74,
+		"sector": "Healthcare",
+		"industry": "SURGICAL & MEDICAL INSTRUMENTS & APPARATUS",
+		"employees": 1725,
+		"region_id": "US"
+	},
+	{
+		"id": "SBNY",
+		"name": "Signature Bank",
+		"price": 306.49,
+		"sector": "Financial Services",
+		"industry": "STATE COMMERCIAL BANKS",
+		"employees": 1652,
+		"region_id": "US"
+	},
+	{
+		"id": "LULU",
+		"name": "Lululemon Athletica Inc.",
+		"price": 305.82,
+		"sector": "Consumer Cyclical",
+		"industry": "APPAREL & OTHER FINISHD PRODS OF FABRICS & SIMILAR MATL",
+		"employees": 25000,
+		"region_id": "US"
+	},
+	{
+		"id": "MSFT",
+		"name": "Microsoft Corporation",
+		"price": 288.5,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 181000,
+		"region_id": "US"
+	},
+	{
+		"id": "FTNT",
+		"name": "Fortinet, Inc.",
+		"price": 287.43,
+		"sector": "Technology",
+		"industry": "COMPUTER PERIPHERAL EQUIPMENT NEC",
+		"employees": 10195,
+		"region_id": "US"
+	},
+	{
+		"id": "ISRG",
+		"name": "Intuitive Surgical, Inc.",
+		"price": 278.82,
+		"sector": "Healthcare",
+		"industry": "ORTHOPEDIC PROSTHETIC & SURGICAL APPLIANCES & SUPPLIES",
+		"employees": 9793,
+		"region_id": "US"
+	},
+	{
+		"id": "ARGX",
+		"name": "argenx SE",
+		"price": 277.77,
+		"sector": "Healthcare",
+		"industry": "BIOLOGICAL PRODUCTS (NO DISGNOSTIC SUBSTANCES)",
+		"employees": 336,
+		"region_id": "US"
+	},
+	{
+		"id": "CVCO",
+		"name": "Cavco Industries, Inc.",
+		"price": 271.74,
+		"sector": "Consumer Cyclical",
+		"industry": "MOBILE HOMES",
+		"employees": 4700,
+		"region_id": "US"
+	},
+	{
+		"id": "ESGR",
+		"name": "Enstar Group Limited",
+		"price": 271.12,
+		"sector": "Financial Services",
+		"industry": "FIRE MARINE & CASUALTY INSURANCE",
+		"employees": 832,
+		"region_id": "US"
+	},
+	{
+		"id": "SAIA",
+		"name": "Saia, Inc.",
+		"price": 269.74,
+		"sector": "Industrials",
+		"industry": "TRUCKING (NO LOCAL)",
+		"employees": 11600,
+		"region_id": "US"
+	},
+	{
+		"id": "MORN",
+		"name": "Morningstar, Inc.",
+		"price": 269.65,
+		"sector": "Financial Services",
+		"industry": "INVESTMENT ADVICE",
+		"employees": 9556,
+		"region_id": "US"
+	},
+	{
+		"id": "TEAM",
+		"name": "Atlassian Corporation Plc",
+		"price": 261.59,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 7388,
+		"region_id": "US"
+	},
+	{
+		"id": "IIVIP",
+		"name": "II-VI Incorporated",
+		"price": 260.31,
+		"sector": "Technology",
+		"industry": "OPTICAL INSTRUMENTS & LENSES",
+		"employees": 22961,
+		"region_id": "US"
+	},
+	{
+		"id": "COHR",
+		"name": "Coherent, Inc.",
+		"price": 257.44,
+		"sector": "Technology",
+		"industry": "LABORATORY ANALYTICAL INSTRUMENTS",
+		"employees": 5085,
+		"region_id": "US"
+	},
+	{
+		"id": "MLAB",
+		"name": "Mesa Laboratories, Inc.",
+		"price": 252.29,
+		"sector": "Technology",
+		"industry": "INDUSTRIAL INSTRUMENTS FOR MEASUREMENT DISPLAY AND CONTROL",
+		"employees": 506,
+		"region_id": "US"
+	},
+	{
+		"id": "PODD",
+		"name": "Insulet Corporation",
+		"price": 249.37,
+		"sector": "Healthcare",
+		"industry": "SURGICAL & MEDICAL INSTRUMENTS & APPARATUS",
+		"employees": 2300,
+		"region_id": "US"
+	},
+	{
+		"id": "LFUS",
+		"name": "Littelfuse, Inc.",
+		"price": 246.05,
+		"sector": "Technology",
+		"industry": "SWITCHGEAR & SWITCHBOARD APPARATUS",
+		"employees": 17000,
+		"region_id": "US"
+	},
+	{
+		"id": "VRTX",
+		"name": "Vertex Pharmaceuticals Incorporated",
+		"price": 239.24,
+		"sector": "Healthcare",
+		"industry": "PHARMACEUTICAL PREPARATIONS",
+		"employees": 3900,
+		"region_id": "US"
+	},
+	{
+		"id": "WDAY",
+		"name": "Workday, Inc.",
+		"price": 233.53,
+		"sector": "Technology",
+		"industry": "COMPUTER PROCESSING & DATA PREPARATION",
+		"employees": 15200,
+		"region_id": "US"
+	},
+	{
+		"id": "AMGN",
+		"name": "Amgen Inc.",
+		"price": 231.46,
+		"sector": "Healthcare",
+		"industry": "BIOLOGICAL PRODUCTS (NO DISGNOSTIC SUBSTANCES)",
+		"employees": 24200,
+		"region_id": "US"
+	},
+	{
+		"id": "ICLR",
+		"name": "ICON Public Limited Company",
+		"price": 230.15,
+		"sector": "Healthcare",
+		"industry": "COMMERCIAL PHYSICAL & BIOLOGICAL RESEARCH",
+		"employees": 38330,
+		"region_id": "US"
+	},
+	{
+		"id": "NVDA",
+		"name": "NVIDIA Corporation",
+		"price": 230.14,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 18975,
+		"region_id": "US"
+	},
+	{
+		"id": "CME",
+		"name": "CME Group Inc.",
+		"price": 230.09,
+		"sector": "Financial Services",
+		"industry": "SECURITY & COMMODITY BROKERS DEALERS EXCHANGES & SERVICES",
+		"employees": 3480,
+		"region_id": "US"
+	},
+	{
+		"id": "WINA",
+		"name": "Winmark Corporation",
+		"price": 227.6,
+		"sector": "Consumer Cyclical",
+		"industry": "RETAIL MISCELLANEOUS RETAIL",
+		"employees": 90,
+		"region_id": "US"
+	},
+	{
+		"id": "ICUI",
+		"name": "ICU Medical, Inc.",
+		"price": 226.71,
+		"sector": "Healthcare",
+		"industry": "Medical Instruments & Supplies",
+		"employees": 8500,
+		"region_id": "US"
+	},
+	{
+		"id": "WTW",
+		"name": "Willis Towers Watson Public Limited Company",
+		"price": 225.06,
+		"sector": "Financial services",
+		"industry": "Insurance Brokers",
+		"employees": 44200,
+		"region_id": "US"
+	},
+	{
+		"id": "TSCO",
+		"name": "Tractor Supply Company",
+		"price": 224.85,
+		"sector": "Consumer Cyclical",
+		"industry": "RETAIL BUILDING MATERIALS HARDWARE GARDEN SUPPLY",
+		"employees": 22000,
+		"region_id": "US"
+	},
+	{
+		"id": "NICE",
+		"name": "NICE Ltd.",
+		"price": 222.58,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 6383,
+		"region_id": "US"
+	},
+	{
+		"id": "NDSN",
+		"name": "Nordson Corporation",
+		"price": 222.45,
+		"sector": "Industrials",
+		"industry": "GENERAL INDUSTRIAL MACHINERY & EQUIPMENT NEC",
+		"employees": 7100,
+		"region_id": "US"
+	},
+	{
+		"id": "SYNA",
+		"name": "Synaptics Incorporated",
+		"price": 219.65,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 1463,
+		"region_id": "US"
+	},
+	{
+		"id": "VRTS",
+		"name": "Virtus Investment Partners, Inc.",
+		"price": 217.05,
+		"sector": "Financial Services",
+		"industry": "INVESTMENT ADVICE",
+		"employees": 668,
+		"region_id": "US"
+	},
+	{
+		"id": "CHDN",
+		"name": "Churchill Downs Incorporated",
+		"price": 213.68,
+		"sector": "Consumer Cyclical",
+		"industry": "RACING INCLUDING TRACK OPERATION",
+		"employees": 3800,
+		"region_id": "US"
+	},
+	{
+		"id": "ZS",
+		"name": "Zscaler, Inc.",
+		"price": 212.35,
+		"sector": "Technology",
+		"industry": "COMPUTER PROGRAMMING SERVICES",
+		"employees": 3153,
+		"region_id": "US"
+	},
+	{
+		"id": "KNSL",
+		"name": "Kinsale Capital Group, Inc.",
+		"price": 211.61,
+		"sector": "Financial Services",
+		"industry": "FIRE MARINE & CASUALTY INSURANCE",
+		"employees": 364,
+		"region_id": "US"
+	},
+	{
+		"id": "NWLI",
+		"name": "National Western Life Group, Inc.",
+		"price": 209.7,
+		"sector": "Financial Services",
+		"industry": "LIFE INSURANCE",
+		"employees": 355,
+		"region_id": "US"
+	},
+	{
+		"id": "ADP",
+		"name": "Automatic Data Processing, Inc.",
+		"price": 209.7,
+		"sector": "Industrials",
+		"industry": "COMPUTER PROCESSING & DATA PREPARATION",
+		"employees": 56000,
+		"region_id": "US"
+	},
+	{
+		"id": "VRSN",
+		"name": "VeriSign, Inc.",
+		"price": 209.59,
+		"sector": "Technology",
+		"industry": "COMPUTER PROGRAMMING SERVICES",
+		"employees": 902,
+		"region_id": "US"
+	},
+	{
+		"id": "HELE",
+		"name": "Helen of Troy Limited",
+		"price": 205.5,
+		"sector": "Consumer Defensive",
+		"industry": "ELECTRIC HOUSEWARES & FANS",
+		"employees": 1769,
+		"region_id": "US"
+	},
+	{
+		"id": "ADSK",
+		"name": "Autodesk, Inc.",
+		"price": 204.88,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 11500,
+		"region_id": "US"
+	},
+	{
+		"id": "BIIB",
+		"name": "Biogen Inc.",
+		"price": 202.27,
+		"sector": "Healthcare",
+		"industry": "BIOLOGICAL PRODUCTS (NO DISGNOSTIC SUBSTANCES)",
+		"employees": 9610,
+		"region_id": "US"
+	},
+	{
+		"id": "WDFC",
+		"name": "WD-40 Company",
+		"price": 201.61,
+		"sector": "Basic Materials",
+		"industry": "MISCELLANEOUS CHEMICAL PRODUCTS",
+		"employees": 540,
+		"region_id": "US"
+	},
+	{
+		"id": "FFIV",
+		"name": "F5, Inc.",
+		"price": 199.6,
+		"sector": "Technology",
+		"industry": "COMPUTER COMMUNICATIONS EQUIPMENT",
+		"employees": 6270,
+		"region_id": "US"
+	},
+	{
+		"id": "JBHT",
+		"name": "J.B. Hunt Transport Services, Inc.",
+		"price": 199.37,
+		"sector": "Industrials",
+		"industry": "TRUCKING (NO LOCAL)",
+		"employees": 33045,
+		"region_id": "US"
+	},
+	{
+		"id": "ESLT",
+		"name": "Elbit Systems Ltd.",
+		"price": 198.95,
+		"sector": "Industrials",
+		"industry": "AIRCRAFT PARTS & AUXILIARY EQUIPMENT NEC",
+		"employees": 16676,
+		"region_id": "US"
+	},
+	{
+		"id": "FB",
+		"name": "Meta Platforms, Inc.",
+		"price": 198.5,
+		"sector": "Communication Services",
+		"industry": "COMPUTER PROGRAMMING DATA PROCESSING ETC.",
+		"employees": 71970,
+		"region_id": "US"
+	},
+	{
+		"id": "PCTY",
+		"name": "Paylocity Holding Corporation",
+		"price": 197.02,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 4150,
+		"region_id": "US"
+	},
+	{
+		"id": "ITIC",
+		"name": "Investors Title Company",
+		"price": 197.0,
+		"sector": "Financial Services",
+		"industry": "TITLE INSURANCE",
+		"employees": 396,
+		"region_id": "US"
+	},
+	{
+		"id": "BGNE",
+		"name": "BeiGene, Ltd.",
+		"price": 195.47,
+		"sector": "Healthcare",
+		"industry": "PHARMACEUTICAL PREPARATIONS",
+		"employees": 8000,
+		"region_id": "US"
+	},
+	{
+		"id": "CNXC",
+		"name": "Concentrix Corporation",
+		"price": 195.4,
+		"sector": "Technology",
+		"industry": "BUSINESS SERVICES NEC",
+		"employees": 290000,
+		"region_id": "US"
+	},
+	{
+		"id": "CAR",
+		"name": "Avis Budget Group, Inc.",
+		"price": 194.74,
+		"sector": "Industrials",
+		"industry": "AUTO RENTAL & LEASING (NO DRIVERS)",
+		"employees": 16000,
+		"region_id": "US"
+	},
+	{
+		"id": "ROLL",
+		"name": "RBC Bearings Incorporated",
+		"price": 191.59,
+		"sector": "Industrials",
+		"industry": "BALL & ROLLER BEARINGS",
+		"employees": 3885,
+		"region_id": "US"
+	},
+	{
+		"id": "ANAT",
+		"name": "American National Group, Inc.",
+		"price": 188.95,
+		"sector": "Financial Services",
+		"industry": "LIFE INSURANCE",
+		"employees": 4545,
+		"region_id": "US"
+	},
+	{
+		"id": "SITM",
+		"name": "SiTime Corporation",
+		"price": 188.15,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 279,
+		"region_id": "US"
+	},
+	{
+		"id": "DHIL",
+		"name": "Diamond Hill Investment Group, Inc.",
+		"price": 187.97,
+		"sector": "Financial Services",
+		"industry": "INVESTMENT ADVICE",
+		"employees": 128,
+		"region_id": "US"
+	},
+	{
+		"id": "VRSK",
+		"name": "Verisk Analytics, Inc.",
+		"price": 187.27,
+		"sector": "Industrials",
+		"industry": "COMPUTER PROCESSING & DATA PREPARATION",
+		"employees": 9367,
+		"region_id": "US"
+	},
+	{
+		"id": "CASY",
+		"name": "Casey's General Stores, Inc.",
+		"price": 185.21,
+		"sector": "Consumer Defensive",
+		"industry": "RETAIL AUTO DEALERS & GASOLINE STATIONS",
+		"employees": 17960,
+		"region_id": "US"
+	},
+	{
+		"id": "NXST",
+		"name": "Nexstar Media Group, Inc.",
+		"price": 184.05,
+		"sector": "Communication Services",
+		"industry": "TELEVISION BROADCASTING STATIONS",
+		"employees": 11160,
+		"region_id": "US"
+	},
+	{
+		"id": "NXPI",
+		"name": "NXP Semiconductors N.V.",
+		"price": 183.35,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 31000,
+		"region_id": "US"
+	},
+	{
+		"id": "CCMP",
+		"name": "CMC Materials, Inc.",
+		"price": 182.71,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 2200,
+		"region_id": "US"
+	},
+	{
+		"id": "ENPH",
+		"name": "Enphase Energy, Inc.",
+		"price": 179.87,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 2260,
+		"region_id": "US"
+	},
+	{
+		"id": "SAFM",
+		"name": "Sanderson Farms, Inc.",
+		"price": 179.66,
+		"sector": "Consumer Defensive",
+		"industry": "POULTRY SLAUGHTERING AND PROCESSING",
+		"employees": 17662,
+		"region_id": "US"
+	},
+	{
+		"id": "WRLD",
+		"name": "World Acceptance Corporation",
+		"price": 179.5,
+		"sector": "Financial Services",
+		"industry": "PERSONAL CREDIT INSTITUTIONS",
+		"employees": 3175,
+		"region_id": "US"
+	},
+	{
+		"id": "COIN",
+		"name": "Coinbase Global, Inc.",
+		"price": 178.97,
+		"sector": "Technology",
+		"industry": "FINANCE SERVICES",
+		"employees": 3730,
+		"region_id": "US"
+	},
+	{
+		"id": "JKHY",
+		"name": "Jack Henry & Associates, Inc.",
+		"price": 177.05,
+		"sector": "Technology",
+		"industry": "COMPUTER INTEGRATED SYSTEMS DESIGN",
+		"employees": 6714,
+		"region_id": "US"
+	},
+	{
+		"id": "EXPE",
+		"name": "Expedia Group, Inc.",
+		"price": 174.68,
+		"sector": "Consumer Cyclical",
+		"industry": "TRANSPORTATION SERVICES",
+		"employees": 14800,
+		"region_id": "US"
+	},
+	{
+		"id": "RGEN",
+		"name": "Repligen Corporation",
+		"price": 173.69,
+		"sector": "Healthcare",
+		"industry": "BIOLOGICAL PRODUCTS (NO DISGNOSTIC SUBSTANCES)",
+		"employees": 1852,
+		"region_id": "US"
+	},
+	{
+		"id": "TXN",
+		"name": "Texas Instruments Incorporated",
+		"price": 172.46,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 31000,
+		"region_id": "US"
+	},
+	{
+		"id": "CDW",
+		"name": "CDW Corporation",
+		"price": 171.0,
+		"sector": "Technology",
+		"industry": "RETAIL CATALOG & MAIL ORDER HOUSES",
+		"employees": 13900,
+		"region_id": "US"
+	},
+	{
+		"id": "ERIE",
+		"name": "Erie Indemnity Company",
+		"price": 170.62,
+		"sector": "Financial Services",
+		"industry": "INSURANCE AGENTS BROKERS & SERVICE",
+		"employees": 5805,
+		"region_id": "US"
+	},
+	{
+		"id": "OKTA",
+		"name": "Okta, Inc.",
+		"price": 170.3,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 4584,
+		"region_id": "US"
+	},
+	{
+		"id": "UTHR",
+		"name": "United Therapeutics Corporation",
+		"price": 169.92,
+		"sector": "Healthcare",
+		"industry": "PHARMACEUTICAL PREPARATIONS",
+		"employees": 965,
+		"region_id": "US"
+	},
+	{
+		"id": "CRWD",
+		"name": "CrowdStrike Holdings, Inc.",
+		"price": 169.79,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 4543,
+		"region_id": "US"
+	},
+	{
+		"id": "SWAV",
+		"name": "ShockWave Medical, Inc.",
+		"price": 168.88,
+		"sector": "Healthcare",
+		"industry": "SURGICAL & MEDICAL INSTRUMENTS & APPARATUS",
+		"employees": 657,
+		"region_id": "US"
+	},
+	{
+		"id": "MIDD",
+		"name": "The Middleby Corporation",
+		"price": 168.69,
+		"sector": "Industrials",
+		"industry": "REFRIGERATION & SERVICE INDUSTRY MACHINERY",
+		"employees": 10624,
+		"region_id": "US"
+	},
+	{
+		"id": "NDAQ",
+		"name": "Nasdaq, Inc.",
+		"price": 168.67,
+		"sector": "Financial Services",
+		"industry": "SECURITY & COMMODITY BROKERS DEALERS EXCHANGES & SERVICES",
+		"employees": 5814,
+		"region_id": "US"
+	},
+	{
+		"id": "GTLS",
+		"name": "Chart Industries, Inc.",
+		"price": 168.31,
+		"sector": "Industrials",
+		"industry": "FABRICATED PLATE WORK (BOILER SHOPS)",
+		"employees": 4771,
+		"region_id": "US"
+	},
+	{
+		"id": "OLED",
+		"name": "Universal Display Corporation",
+		"price": 162.98,
+		"sector": "Technology",
+		"industry": "ELECTRONIC COMPONENTS & ACCESSORIES",
+		"employees": 409,
+		"region_id": "US"
+	},
+	{
+		"id": "AAPL",
+		"name": "Apple Inc.",
+		"price": 162.95,
+		"sector": "Technology",
+		"industry": "ELECTRONIC COMPUTERS",
+		"employees": 100000,
+		"region_id": "US"
+	},
+	{
+		"id": "ALNY",
+		"name": "Alnylam Pharmaceuticals, Inc.",
+		"price": 162.23,
+		"sector": "Healthcare",
+		"industry": "PHARMACEUTICAL PREPARATIONS",
+		"employees": 1665,
+		"region_id": "US"
+	},
+	{
+		"id": "CRVL",
+		"name": "CorVel Corporation",
+		"price": 161.45,
+		"sector": "Financial Services",
+		"industry": "INSURANCE AGENTS BROKERS & SERVICE",
+		"employees": 3681,
+		"region_id": "US"
+	},
+	{
+		"id": "CYBR",
+		"name": "CyberArk Software Ltd.",
+		"price": 160.29,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 1689,
+		"region_id": "US"
+	},
+	{
+		"id": "MAR",
+		"name": "Marriott International, Inc.",
+		"price": 159.47,
+		"sector": "Consumer Cyclical",
+		"industry": "HOTELS & MOTELS",
+		"employees": 120000,
+		"region_id": "US"
+	},
+	{
+		"id": "TTEK",
+		"name": "Tetra Tech, Inc.",
+		"price": 159.44,
+		"sector": "Industrials",
+		"industry": "ENGINEERING SERVICES",
+		"employees": 21000,
+		"region_id": "US"
+	},
+	{
+		"id": "TTWO",
+		"name": "Take-Two Interactive Software, Inc.",
+		"price": 158.32,
+		"sector": "Communication Services",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 6495,
+		"region_id": "US"
+	},
+	{
+		"id": "FIVE",
+		"name": "Five Below, Inc.",
+		"price": 157.66,
+		"sector": "Consumer Cyclical",
+		"industry": "RETAIL VARIETY STORES",
+		"employees": 5100,
+		"region_id": "US"
+	},
+	{
+		"id": "PEP",
+		"name": "PepsiCo, Inc.",
+		"price": 157.4,
+		"sector": "Consumer Defensive",
+		"industry": "BEVERAGES",
+		"employees": 309000,
+		"region_id": "US"
+	},
+	{
+		"id": "QCOM",
+		"name": "QUALCOMM Incorporated",
+		"price": 157.11,
+		"sector": "Technology",
+		"industry": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
+		"employees": 45000,
+		"region_id": "US"
+	},
+	{
+		"id": "LANC",
+		"name": "Lancaster Colony Corporation",
+		"price": 156.92,
+		"sector": "Consumer Defensive",
+		"industry": "CANNED FROZEN & PRESERVD FRUIT VEG & FOOD SPECIALTIES",
+		"employees": 3200,
+		"region_id": "US"
+	},
+	{
+		"id": "AMED",
+		"name": "Amedisys, Inc.",
+		"price": 155.44,
+		"sector": "Healthcare",
+		"industry": "HOME HEALTH CARE SERVICES",
+		"employees": 21000,
+		"region_id": "US"
+	},
+	{
+		"id": "JJSF",
+		"name": "J & J Snack Foods Corp.",
+		"price": 155.02,
+		"sector": "Consumer Defensive",
+		"industry": "COOKIES & CRACKERS",
+		"employees": 4300,
+		"region_id": "US"
+	},
+	{
+		"id": "LPLA",
+		"name": "LPL Financial Holdings Inc.",
+		"price": 154.83,
+		"sector": "Financial Services",
+		"industry": "SECURITY & COMMODITY BROKERS DEALERS EXCHANGES & SERVICES",
+		"employees": 5900,
+		"region_id": "US"
+	},
+	{
+		"id": "LSTR",
+		"name": "Landstar System, Inc.",
+		"price": 154.28,
+		"sector": "Industrials",
+		"industry": "TRUCKING (NO LOCAL)",
+		"employees": 1399,
+		"region_id": "US"
+	},
+	{
+		"id": "JAZZ",
+		"name": "Jazz Pharmaceuticals plc",
+		"price": 154.04,
+		"sector": "Healthcare",
+		"industry": "PHARMACEUTICAL PREPARATIONS",
+		"employees": 3200,
+		"region_id": "US"
+	},
+	{
+		"id": "ADI",
+		"name": "Analog Devices, Inc.",
+		"price": 153.62,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 24700,
+		"region_id": "US"
+	},
+	{
+		"id": "HSKA",
+		"name": "Heska Corporation",
+		"price": 153.33,
+		"sector": "Healthcare",
+		"industry": "IN VITRO & IN VIVO DIAGNOSTIC SUBSTANCES",
+		"employees": 655,
+		"region_id": "US"
+	},
+	{
+		"id": "MKSI",
+		"name": "MKS Instruments, Inc.",
+		"price": 151.81,
+		"sector": "Technology",
+		"industry": "INDUSTRIAL INSTRUMENTS FOR MEASUREMENT DISPLAY AND CONTROL",
+		"employees": 6000,
+		"region_id": "US"
+	},
+	{
+		"id": "MEDP",
+		"name": "Medpace Holdings, Inc.",
+		"price": 151.62,
+		"sector": "Healthcare",
+		"industry": "COMMERCIAL PHYSICAL & BIOLOGICAL RESEARCH",
+		"employees": 4500,
+		"region_id": "US"
+	},
+	{
+		"id": "CDNS",
+		"name": "Cadence Design Systems, Inc.",
+		"price": 150.89,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 9300,
+		"region_id": "US"
+	},
+	{
+		"id": "ABNB",
+		"name": "Airbnb, Inc.",
+		"price": 148.31,
+		"sector": "Communication Services",
+		"industry": "TO DWELLINGS & OTHER BUILDINGS",
+		"employees": 6132,
+		"region_id": "US"
+	},
+	{
+		"id": "DLTR",
+		"name": "Dollar Tree, Inc.",
+		"price": 147.75,
+		"sector": "Consumer Defensive",
+		"industry": "RETAIL VARIETY STORES",
+		"employees": 60217,
+		"region_id": "US"
+	},
+	{
+		"id": "ALGT",
+		"name": "Allegiant Travel Company",
+		"price": 146.94,
+		"sector": "Industrials",
+		"industry": "AIR TRANSPORTATION SCHEDULED",
+		"employees": 4183,
+		"region_id": "US"
+	},
+	{
+		"id": "MNDY",
+		"name": "monday.com Ltd.",
+		"price": 146.66,
+		"sector": "Technology",
+		"industry": "Software Application",
+		"employees": 705,
+		"region_id": "US"
+	},
+	{
+		"id": "AZPN",
+		"name": "Aspen Technology, Inc.",
+		"price": 145.92,
+		"sector": "Technology",
+		"industry": "COMPUTER PROGRAMMING SERVICES",
+		"employees": 1897,
+		"region_id": "US"
+	},
+	{
+		"id": "OAS",
+		"name": "Oasis Petroleum Inc.",
+		"price": 145.35,
+		"sector": "Energy",
+		"industry": "CRUDE PETROLEUM & NATURAL GAS",
+		"employees": 255,
+		"region_id": "US"
+	},
+	{
+		"id": "ETSY",
+		"name": "Etsy, Inc.",
+		"price": 144.72,
+		"sector": "Consumer Cyclical",
+		"industry": "BUSINESS SERVICES NEC",
+		"employees": 2402,
+		"region_id": "US"
+	},
+	{
+		"id": "BIDU",
+		"name": "Baidu, Inc.",
+		"price": 144.23,
+		"sector": "Communication Services",
+		"industry": "COMPUTER PROGRAMMING DATA PROCESSING ETC.",
+		"employees": 41000,
+		"region_id": "US"
+	},
+	{
+		"id": "MASI",
+		"name": "Masimo Corporation",
+		"price": 143.5,
+		"sector": "Healthcare",
+		"industry": "ELECTROMEDICAL & ELECTROTHERAPEUTIC APPARATUS",
+		"employees": 2200,
+		"region_id": "US"
+	},
+	{
+		"id": "DDOG",
+		"name": "Datadog, Inc.",
+		"price": 142.83,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 3200,
+		"region_id": "US"
+	},
+	{
+		"id": "MRNA",
+		"name": "Moderna, Inc.",
+		"price": 142.49,
+		"sector": "Healthcare",
+		"industry": "BIOLOGICAL PRODUCTS (NO DISGNOSTIC SUBSTANCES)",
+		"employees": 2700,
+		"region_id": "US"
+	},
+	{
+		"id": "LHCG",
+		"name": "LHC Group, Inc.",
+		"price": 141.26,
+		"sector": "Healthcare",
+		"industry": "HOME HEALTH CARE SERVICES",
+		"employees": 16000,
+		"region_id": "US"
+	},
+	{
+		"id": "SLAB",
+		"name": "Silicon Laboratories Inc.",
+		"price": 141.02,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 1667,
+		"region_id": "US"
+	},
+	{
+		"id": "OFLX",
+		"name": "Omega Flex, Inc.",
+		"price": 141.0,
+		"sector": "Industrials",
+		"industry": "HEATING EQUIP EXCEPT ELEC & WARM AIR; & PLUMBING FIXTURES",
+		"employees": 164,
+		"region_id": "US"
+	},
+	{
+		"id": "SGEN",
+		"name": "Seagen Inc.",
+		"price": 140.46,
+		"sector": "Healthcare",
+		"industry": "BIOLOGICAL PRODUCTS (NO DISGNOSTIC SUBSTANCES)",
+		"employees": 2675,
+		"region_id": "US"
+	},
+	{
+		"id": "BNTX",
+		"name": "BioNTech SE",
+		"price": 140.21,
+		"sector": "Healthcare",
+		"industry": "BIOLOGICAL PRODUCTS (NO DISGNOSTIC SUBSTANCES)",
+		"employees": 2800,
+		"region_id": "US"
+	},
+	{
+		"id": "TROW",
+		"name": "T. Rowe Price Group, Inc.",
+		"price": 138.88,
+		"sector": "Financial Services",
+		"industry": "SECURITY & COMMODITY BROKERS DEALERS EXCHANGES & SERVICES",
+		"employees": 7529,
+		"region_id": "US"
+	},
+	{
+		"id": "CHKP",
+		"name": "Check Point Software Technologies Ltd.",
+		"price": 138.45,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 5198,
+		"region_id": "US"
+	},
+	{
+		"id": "OMCL",
+		"name": "Omnicell, Inc.",
+		"price": 137.52,
+		"sector": "Healthcare",
+		"industry": "ELECTRONIC COMPUTERS",
+		"employees": 3800,
+		"region_id": "US"
+	},
+	{
+		"id": "LBRDK",
+		"name": "Liberty Broadband Corporation",
+		"price": 137.41,
+		"sector": "Communication Services",
+		"industry": "CABLE & OTHER PAY TELEVISION SERVICES",
+		"employees": null,
+		"region_id": "US"
+	},
+	{
+		"id": "BCPC",
+		"name": "Balchem Corporation",
+		"price": 136.03,
+		"sector": "Basic Materials",
+		"industry": "CHEMICALS & ALLIED PRODUCTS",
+		"employees": 1317,
+		"region_id": "US"
+	},
+	{
+		"id": "FSV",
+		"name": "FirstService Corporation",
+		"price": 135.42,
+		"sector": "Real Estate",
+		"industry": "REAL ESTATE",
+		"employees": 25000,
+		"region_id": "US"
+	},
+	{
+		"id": "NOVT",
+		"name": "Novanta Inc.",
+		"price": 134.72,
+		"sector": "Technology",
+		"industry": "MISCELLANEOUS ELECTRICAL MACHINERY EQUIPMENT & SUPPLIES",
+		"employees": 2700,
+		"region_id": "US"
+	},
+	{
+		"id": "MANH",
+		"name": "Manhattan Associates, Inc.",
+		"price": 134.39,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 3600,
+		"region_id": "US"
+	},
+	{
+		"id": "LBRDA",
+		"name": "Liberty Broadband Corporation",
+		"price": 134.21,
+		"sector": "Communication Services",
+		"industry": "CABLE & OTHER PAY TELEVISION SERVICES",
+		"employees": 0,
+		"region_id": "US"
+	},
+	{
+		"id": "SWKS",
+		"name": "Skyworks Solutions, Inc.",
+		"price": 134.16,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 11000,
+		"region_id": "US"
+	},
+	{
+		"id": "WING",
+		"name": "Wingstop Inc.",
+		"price": 133.72,
+		"sector": "Consumer Cyclical",
+		"industry": "Restaurants",
+		"employees": 240,
+		"region_id": "US"
+	},
+	{
+		"id": "IRTC",
+		"name": "iRhythm Technologies, Inc.",
+		"price": 133.32,
+		"sector": "Healthcare",
+		"industry": "SURGICAL & MEDICAL INSTRUMENTS & APPARATUS",
+		"employees": 1700000,
+		"region_id": "US"
+	},
+	{
+		"id": "AXON",
+		"name": "Axon Enterprise, Inc.",
+		"price": 131.63,
+		"sector": "Industrials",
+		"industry": "ORDNANCE & ACCESSORIES (NO VEHICLES/GUIDED MISSILES)",
+		"employees": 1710,
+		"region_id": "US"
+	},
+	{
+		"id": "RGLD",
+		"name": "Royal Gold, Inc.",
+		"price": 131.37,
+		"sector": "Basic Materials",
+		"industry": "MINERAL ROYALTY TRADERS",
+		"employees": 29,
+		"region_id": "US"
+	},
+	{
+		"id": "FANG",
+		"name": "Diamondback Energy, Inc.",
+		"price": 130.05,
+		"sector": "Energy",
+		"industry": "CRUDE PETROLEUM & NATURAL GAS",
+		"employees": 870,
+		"region_id": "US"
+	},
+	{
+		"id": "QRVO",
+		"name": "Qorvo, Inc.",
+		"price": 129.36,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 8400,
+		"region_id": "US"
+	},
+	{
+		"id": "AMAT",
+		"name": "Applied Materials, Inc.",
+		"price": 128.62,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 28500,
+		"region_id": "US"
+	},
+	{
+		"id": "QLYS",
+		"name": "Qualys, Inc.",
+		"price": 128.55,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 1823,
+		"region_id": "US"
+	},
+	{
+		"id": "SPSC",
+		"name": "SPS Commerce, Inc.",
+		"price": 128.41,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 1901,
+		"region_id": "US"
+	},
+	{
+		"id": "SPLK",
+		"name": "Splunk Inc.",
+		"price": 127.89,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 6500,
+		"region_id": "US"
+	},
+	{
+		"id": "LECO",
+		"name": "Lincoln Electric Holdings, Inc.",
+		"price": 126.99,
+		"sector": "Industrials",
+		"industry": "METALWORKG MACHINERY & EQUIPMENT",
+		"employees": 11000,
+		"region_id": "US"
+	},
+	{
+		"id": "CIGI",
+		"name": "Colliers International Group Inc.",
+		"price": 125.76,
+		"sector": "Real Estate",
+		"industry": "REAL ESTATE",
+		"employees": 16780,
+		"region_id": "US"
+	},
+	{
+		"id": "EA",
+		"name": "Electronic Arts Inc.",
+		"price": 125.52,
+		"sector": "Communication Services",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 11000,
+		"region_id": "US"
+	},
+	{
+		"id": "ENTG",
+		"name": "Entegris, Inc.",
+		"price": 125.33,
+		"sector": "Technology",
+		"industry": "PLASTICS PRODUCTS NEC",
+		"employees": 6850,
+		"region_id": "US"
+	},
+	{
+		"id": "EXLS",
+		"name": "ExlService Holdings, Inc.",
+		"price": 124.64,
+		"sector": "Technology",
+		"industry": "BUSINESS SERVICES NEC",
+		"employees": 37400,
+		"region_id": "US"
+	},
+	{
+		"id": "NVEE",
+		"name": "NV5 Global, Inc.",
+		"price": 124.41,
+		"sector": "Industrials",
+		"industry": "MISCELLANEOUS BUSINESS SERVICES",
+		"employees": 3139,
+		"region_id": "US"
+	},
+	{
+		"id": "CSWI",
+		"name": "CSW Industrials, Inc.",
+		"price": 123.33,
+		"sector": "Industrials",
+		"industry": "Specialty Industrial Machinery",
+		"employees": 2300,
+		"region_id": "US"
+	},
+	{
+		"id": "WIRE",
+		"name": "Encore Wire Corporation",
+		"price": 122.5,
+		"sector": "Industrials",
+		"industry": "ROLLING DRAWING & EXTRUDING OF NONFERROUS METALS",
+		"employees": 1440,
+		"region_id": "US"
+	},
+	{
+		"id": "PAYX",
+		"name": "Paychex, Inc.",
+		"price": 122.3,
+		"sector": "Industrials",
+		"industry": "ENGINEERING ACCOUNTING RESEARCH MANAGEMENT",
+		"employees": 15000,
+		"region_id": "US"
+	},
+	{
+		"id": "TMUS",
+		"name": "T-Mobile US, Inc.",
+		"price": 121.96,
+		"sector": "Communication Services",
+		"industry": "RADIOTELEPHONE COMMUNICATIONS",
+		"employees": 75000,
+		"region_id": "US"
+	},
+	{
+		"id": "LGIH",
+		"name": "LGI Homes, Inc.",
+		"price": 121.85,
+		"sector": "Consumer Cyclical",
+		"industry": "OPERATIVE BUILDERS",
+		"employees": 952,
+		"region_id": "US"
+	},
+	{
+		"id": "AMR",
+		"name": "Alpha Metallurgical Resources, Inc.",
+		"price": 121.64,
+		"sector": "Industrials",
+		"industry": "BITUMINOUS COAL & LIGNITE SURFACE MINING",
+		"employees": 3400,
+		"region_id": "US"
+	},
+	{
+		"id": "CINF",
+		"name": "Cincinnati Financial Corporation",
+		"price": 121.36,
+		"sector": "Financial Services",
+		"industry": "FIRE MARINE & CASUALTY INSURANCE",
+		"employees": 5166,
+		"region_id": "US"
+	},
+	{
+		"id": "APPF",
+		"name": "AppFolio, Inc.",
+		"price": 120.13,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 1600,
+		"region_id": "US"
+	},
+	{
+		"id": "SABRP",
+		"name": "Sabre Corporation",
+		"price": 120.12,
+		"sector": "Technology",
+		"industry": "COMPUTER PROGRAMMING DATA PROCESSING ETC.",
+		"employees": 7583,
+		"region_id": "US"
+	},
+	{
+		"id": "WWD",
+		"name": "Woodward, Inc.",
+		"price": 119.46,
+		"sector": "Industrials",
+		"industry": "ELECTRICAL INDUSTRIAL APPARATUS",
+		"employees": 7200,
+		"region_id": "US"
+	},
+	{
+		"id": "ROKU",
+		"name": "Roku, Inc.",
+		"price": 117.55,
+		"sector": "Communication Services",
+		"industry": "CABLE & OTHER PAY TELEVISION SERVICES",
+		"employees": 3000,
+		"region_id": "US"
+	},
+	{
+		"id": "UPST",
+		"name": "Upstart Holdings, Inc.",
+		"price": 117.14,
+		"sector": "Financial Services",
+		"industry": "FINANCE SERVICES",
+		"employees": 1497,
+		"region_id": "US"
+	},
+	{
+		"id": "COUP",
+		"name": "Coupa Software Incorporated",
+		"price": 116.59,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 2615,
+		"region_id": "US"
+	},
+	{
+		"id": "USLM",
+		"name": "United States Lime & Minerals, Inc.",
+		"price": 116.49,
+		"sector": "Basic Materials",
+		"industry": "MINING & QUARRYING OF NONMETALLIC MINERALS (NO FUELS)",
+		"employees": 317,
+		"region_id": "US"
+	},
+	{
+		"id": "CPRT",
+		"name": "Copart, Inc.",
+		"price": 115.9,
+		"sector": "Industrials",
+		"industry": "RETAIL AUTO DEALERS & GASOLINE STATIONS",
+		"employees": 8600,
+		"region_id": "US"
+	},
+	{
+		"id": "CBRL",
+		"name": "Cracker Barrel Old Country Store, Inc.",
+		"price": 115.63,
+		"sector": "Consumer Cyclical",
+		"industry": "RETAIL EATING PLACES",
+		"employees": 70000,
+		"region_id": "US"
+	},
+	{
+		"id": "IPGP",
+		"name": "IPG Photonics Corporation",
+		"price": 114.15,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 6580,
+		"region_id": "US"
+	},
+	{
+		"id": "MODV",
+		"name": "ModivCare Inc.",
+		"price": 112.06,
+		"sector": "Healthcare",
+		"industry": "TRANSPORTATION SERVICES",
+		"employees": 17500,
+		"region_id": "US"
+	},
+	{
+		"id": "EEFT",
+		"name": "Euronet Worldwide, Inc.",
+		"price": 111.9,
+		"sector": "Technology",
+		"industry": "FUNCTIONS RELATED TO DEPOSITORY BANKING NEC",
+		"employees": 8800,
+		"region_id": "US"
+	},
+	{
+		"id": "TER",
+		"name": "Teradyne, Inc.",
+		"price": 111.75,
+		"sector": "Technology",
+		"industry": "INSTRUMENTS FOR MEAS & TESTING OF ELECTRICITY & ELEC SIGNALS",
+		"employees": 5900,
+		"region_id": "US"
+	},
+	{
+		"id": "AMD",
+		"name": "Advanced Micro Devices, Inc.",
+		"price": 111.05,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 15500,
+		"region_id": "US"
+	},
+	{
+		"id": "NVMI",
+		"name": "Nova Ltd.",
+		"price": 110.93,
+		"sector": "Technology",
+		"industry": "OPTICAL INSTRUMENTS & LENSES",
+		"employees": 819,
+		"region_id": "US"
+	},
+	{
+		"id": "GRMN",
+		"name": "Garmin Ltd.",
+		"price": 110.72,
+		"sector": "Technology",
+		"industry": "SEARCH DETECTION NAVAGATION GUIDANCE AERONAUTICAL SYS",
+		"employees": 18700,
+		"region_id": "US"
+	},
+	{
+		"id": "PTC",
+		"name": "PTC Inc.",
+		"price": 109.3,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 6331,
+		"region_id": "US"
+	},
+	{
+		"id": "AKAM",
+		"name": "Akamai Technologies, Inc.",
+		"price": 109.18,
+		"sector": "Technology",
+		"industry": "BUSINESS SERVICES NEC",
+		"employees": 8700,
+		"region_id": "US"
+	},
+	{
+		"id": "ZM",
+		"name": "Zoom Video Communications, Inc.",
+		"price": 109.08,
+		"sector": "Communication Services",
+		"industry": "COMPUTER PROGRAMMING DATA PROCESSING ETC.",
+		"employees": 3871,
+		"region_id": "US"
+	},
+	{
+		"id": "KRTX",
+		"name": "Karuna Therapeutics, Inc.",
+		"price": 107.56,
+		"sector": "Healthcare",
+		"industry": "PHARMACEUTICAL PREPARATIONS",
+		"employees": 118,
+		"region_id": "US"
+	},
+	{
+		"id": "VC",
+		"name": "Visteon Corporation",
+		"price": 107.17,
+		"sector": "Consumer Cyclical",
+		"industry": "MOTOR VEHICLE PARTS & ACCESSORIES",
+		"employees": 10000,
+		"region_id": "US"
+	},
+	{
+		"id": "RPD",
+		"name": "Rapid7, Inc.",
+		"price": 106.23,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 2353,
+		"region_id": "US"
+	},
+	{
+		"id": "TNDM",
+		"name": "Tandem Diabetes Care, Inc.",
+		"price": 105.77,
+		"sector": "Healthcare",
+		"industry": "SURGICAL & MEDICAL INSTRUMENTS & APPARATUS",
+		"employees": 2000,
+		"region_id": "US"
+	},
+	{
+		"id": "LGND",
+		"name": "Ligand Pharmaceuticals Incorporated",
+		"price": 105.41,
+		"sector": "Healthcare",
+		"industry": "PHARMACEUTICAL PREPARATIONS",
+		"employees": 154,
+		"region_id": "US"
+	},
+	{
+		"id": "IAC",
+		"name": "IAC/InterActiveCorp",
+		"price": 105.08,
+		"sector": "Communication Services",
+		"industry": "COMPUTER PROGRAMMING DATA PROCESSING ETC.",
+		"employees": 13200,
+		"region_id": "US"
+	},
+	{
+		"id": "ASND",
+		"name": "Ascendis Pharma A/S",
+		"price": 104.85,
+		"sector": "Healthcare",
+		"industry": "PHARMACEUTICAL PREPARATIONS",
+		"employees": 639,
+		"region_id": "US"
+	},
+	{
+		"id": "PRFT",
+		"name": "Perficient, Inc.",
+		"price": 104.59,
+		"sector": "Technology",
+		"industry": "COMPUTER PROGRAMMING SERVICES",
+		"employees": 6079,
+		"region_id": "US"
+	},
+	{
+		"id": "TREE",
+		"name": "LendingTree, Inc.",
+		"price": 103.1,
+		"sector": "Financial Services",
+		"industry": "LOAN BROKERS",
+		"employees": 1407,
+		"region_id": "US"
+	},
+	{
+		"id": "FRPT",
+		"name": "Freshpet, Inc.",
+		"price": 102.66,
+		"sector": "Consumer Defensive",
+		"industry": "GRAIN MILL PRODUCTS",
+		"employees": 789,
+		"region_id": "US"
+	},
+	{
+		"id": "MSEX",
+		"name": "Middlesex Water Company",
+		"price": 102.41,
+		"sector": "Utilities",
+		"industry": "WATER SUPPLY",
+		"employees": 347,
+		"region_id": "US"
+	},
+	{
+		"id": "FORTY",
+		"name": "Formula Systems (1985) Ltd.",
+		"price": 102.39,
+		"sector": "Technology",
+		"industry": "COMPUTER PROGRAMMING SERVICES",
+		"employees": 15101,
+		"region_id": "US"
+	},
+	{
+		"id": "NSIT",
+		"name": "Insight Enterprises, Inc.",
+		"price": 102.37,
+		"sector": "Technology",
+		"industry": "RETAIL CATALOG & MAIL ORDER HOUSES",
+		"employees": 11624,
+		"region_id": "US"
+	},
+	{
+		"id": "QDEL",
+		"name": "Quidel Corporation",
+		"price": 102.06,
+		"sector": "Healthcare",
+		"industry": "IN VITRO & IN VIVO DIAGNOSTIC SUBSTANCES",
+		"employees": 1600,
+		"region_id": "US"
+	},
+	{
+		"id": "CTXS",
+		"name": "Citrix Systems, Inc.",
+		"price": 101.92,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 9000,
+		"region_id": "US"
+	},
+	{
+		"id": "FOXF",
+		"name": "Fox Factory Holding Corp.",
+		"price": 101.75,
+		"sector": "Consumer Cyclical",
+		"industry": "MOTORCYCLES BICYCLES & PARTS",
+		"employees": 4100,
+		"region_id": "US"
+	},
+	{
+		"id": "CHRW",
+		"name": "C.H. Robinson Worldwide, Inc.",
+		"price": 101.59,
+		"sector": "Industrials",
+		"industry": "ARRANGEMENT OF TRANSPORTATION OF FREIGHT & CARGO",
+		"employees": 16877,
+		"region_id": "US"
+	},
+	{
+		"id": "BOKF",
+		"name": "BOK Financial Corporation",
+		"price": 101.28,
+		"sector": "Financial Services",
+		"industry": "NATIONAL COMMERCIAL BANKS",
+		"employees": 4711,
+		"region_id": "US"
+	},
+	{
+		"id": "HZNP",
+		"name": "Horizon Therapeutics Public Limited Company",
+		"price": 101.12,
+		"sector": "Healthcare",
+		"industry": "PHARMACEUTICAL PREPARATIONS",
+		"employees": 1890,
+		"region_id": "US"
+	},
+	{
+		"id": "FWRD",
+		"name": "Forward Air Corporation",
+		"price": 100.84,
+		"sector": "Industrials",
+		"industry": "ARRANGEMENT OF TRANSPORTATION OF FREIGHT & CARGO",
+		"employees": 4035,
+		"region_id": "US"
+	},
+	{
+		"id": "EXPD",
+		"name": "Expeditors International of Washington, Inc.",
+		"price": 100.82,
+		"sector": "Industrials",
+		"industry": "ARRANGEMENT OF TRANSPORTATION OF FREIGHT & CARGO",
+		"employees": 19588,
+		"region_id": "US"
+	},
+	{
+		"id": "ROLLP",
+		"name": "RBC Bearings Incorporated",
+		"price": 100.4243,
+		"sector": "Industrials",
+		"industry": "Tools & Accessories",
+		"employees": 3885,
+		"region_id": "US"
+	},
+	{
+		"id": "PYPL",
+		"name": "PayPal Holdings, Inc.",
+		"price": 100.22,
+		"sector": "Financial Services",
+		"industry": "BUSINESS SERVICES NEC",
+		"employees": 30900,
+		"region_id": "US"
+	},
+	{
+		"id": "ARNA",
+		"name": "Arena Pharmaceuticals, Inc.",
+		"price": 99.93,
+		"sector": "Healthcare",
+		"industry": "PHARMACEUTICAL PREPARATIONS",
+		"employees": 448,
+		"region_id": "US"
+	},
+	{
+		"id": "MTCH",
+		"name": "Match Group, Inc.",
+		"price": 98.93,
+		"sector": "Communication Services",
+		"industry": "PERSONAL SERVICES",
+		"employees": 2500,
+		"region_id": "US"
+	},
+	{
+		"id": "DORM",
+		"name": "Dorman Products, Inc.",
+		"price": 98.88,
+		"sector": "Consumer Cyclical",
+		"industry": "Auto Parts",
+		"employees": 3360,
+		"region_id": "US"
+	},
+	{
+		"id": "MDGL",
+		"name": "Madrigal Pharmaceuticals, Inc.",
+		"price": 98.57,
+		"sector": "Healthcare",
+		"industry": "Biotechnology",
+		"employees": 71,
+		"region_id": "US"
+	},
+	{
+		"id": "PZZA",
+		"name": "Papa John's International, Inc.",
+		"price": 98.45,
+		"sector": "Consumer Cyclical",
+		"industry": "RETAIL EATING PLACES",
+		"employees": 14000,
+		"region_id": "US"
+	},
+	{
+		"id": "ZD",
+		"name": "Ziff Davis, Inc.",
+		"price": 98.27,
+		"sector": "Communication Services",
+		"industry": "Advertising Agencies",
+		"employees": 4700,
+		"region_id": "US"
+	},
+	{
+		"id": "DOCU",
+		"name": "DocuSign, Inc.",
+		"price": 98.05,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 5630,
+		"region_id": "US"
+	},
+	{
+		"id": "NARI",
+		"name": "Inari Medical, Inc.",
+		"price": 97.82,
+		"sector": "Healthcare",
+		"industry": "SURGICAL & MEDICAL INSTRUMENTS & APPARATUS",
+		"employees": 800,
+		"region_id": "US"
+	},
+	{
+		"id": "UMBF",
+		"name": "UMB Financial Corporation",
+		"price": 97.38,
+		"sector": "Financial Services",
+		"industry": "NATIONAL COMMERCIAL BANKS",
+		"employees": 3529,
+		"region_id": "US"
+	},
+	{
+		"id": "TBK",
+		"name": "Triumph Bancorp, Inc.",
+		"price": 96.68,
+		"sector": "Financial Services",
+		"industry": "STATE COMMERCIAL BANKS",
+		"employees": 1250,
+		"region_id": "US"
+	},
+	{
+		"id": "EXPO",
+		"name": "Exponent, Inc.",
+		"price": 96.44,
+		"sector": "Industrials",
+		"industry": "MANAGEMENT CONSULTING SERVICES",
+		"employees": 1215,
+		"region_id": "US"
+	},
+	{
+		"id": "FISV",
+		"name": "Fiserv, Inc.",
+		"price": 96.27,
+		"sector": "Technology",
+		"industry": "COMPUTER PROCESSING & DATA PREPARATION",
+		"employees": 44000,
+		"region_id": "US"
+	},
+	{
+		"id": "NCBS",
+		"name": "Nicolet Bankshares, Inc.",
+		"price": 95.75,
+		"sector": "Financial Services",
+		"industry": "NATIONAL COMMERCIAL BANKS",
+		"employees": 856,
+		"region_id": "US"
+	},
+	{
+		"id": "PNFP",
+		"name": "Pinnacle Financial Partners, Inc.",
+		"price": 95.36,
+		"sector": "Financial Services",
+		"industry": "NATIONAL COMMERCIAL BANKS",
+		"employees": 2841,
+		"region_id": "US"
+	},
+	{
+		"id": "LITE",
+		"name": "Lumentum Holdings Inc.",
+		"price": 94.66,
+		"sector": "Technology",
+		"industry": "COMMUNICATIONS EQUIPMENT NEC",
+		"employees": 5618,
+		"region_id": "US"
+	},
+	{
+		"id": "FIVN",
+		"name": "Five9, Inc.",
+		"price": 94.43,
+		"sector": "Technology",
+		"industry": "COMPUTER PROCESSING & DATA PREPARATION",
+		"employees": 2138,
+		"region_id": "US"
+	},
+	{
+		"id": "CERN",
+		"name": "Cerner Corporation",
+		"price": 93.1,
+		"sector": "Healthcare",
+		"industry": "COMPUTER INTEGRATED SYSTEMS DESIGN",
+		"employees": 26400,
+		"region_id": "US"
+	},
+	{
+		"id": "MYRG",
+		"name": "MYR Group Inc.",
+		"price": 92.84,
+		"sector": "Industrials",
+		"industry": "WATER SEWER PIPELINE COMM & POWER LINE CONSTRUCTION",
+		"employees": 7600,
+		"region_id": "US"
+	},
+	{
+		"id": "LOPE",
+		"name": "Grand Canyon Education, Inc.",
+		"price": 92.71,
+		"sector": "Consumer Defensive",
+		"industry": "EDUCATIONAL SERVICES",
+		"employees": 3680,
+		"region_id": "US"
+	},
+	{
+		"id": "IOSP",
+		"name": "Innospec Inc.",
+		"price": 91.87,
+		"sector": "Basic Materials",
+		"industry": "CHEMICALS & ALLIED PRODUCTS",
+		"employees": 1900,
+		"region_id": "US"
+	},
+	{
+		"id": "CRMT",
+		"name": "America's Car-Mart, Inc.",
+		"price": 91.86,
+		"sector": "Consumer Cyclical",
+		"industry": "RETAIL AUTO DEALERS & GASOLINE STATIONS",
+		"employees": 1850,
+		"region_id": "US"
+	},
+	{
+		"id": "AMBA",
+		"name": "Ambarella, Inc.",
+		"price": 91.05,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 806,
+		"region_id": "US"
+	},
+	{
+		"id": "KALU",
+		"name": "Kaiser Aluminum Corporation",
+		"price": 90.44,
+		"sector": "Basic Materials",
+		"industry": "ROLLING DRAWING & EXTRUDING OF NONFERROUS METALS",
+		"employees": 3957,
+		"region_id": "US"
+	},
+	{
+		"id": "STX",
+		"name": "Seagate Technology Holdings plc",
+		"price": 90.39,
+		"sector": "Technology",
+		"industry": "COMPUTER STORAGE DEVICES",
+		"employees": 40000,
+		"region_id": "US"
+	},
+	{
+		"id": "HAS",
+		"name": "Hasbro, Inc.",
+		"price": 89.93,
+		"sector": "Consumer Cyclical",
+		"industry": "GAMES TOYS & CHILDRENS VEHICLES (NO DOLLS & BICYCLES)",
+		"employees": 6640,
+		"region_id": "US"
+	},
+	{
+		"id": "NBIX",
+		"name": "Neurocrine Biosciences, Inc.",
+		"price": 89.88,
+		"sector": "Healthcare",
+		"industry": "BIOLOGICAL PRODUCTS (NO DISGNOSTIC SUBSTANCES)",
+		"employees": 900,
+		"region_id": "US"
+	},
+	{
+		"id": "UTMD",
+		"name": "Utah Medical Products, Inc.",
+		"price": 89.7,
+		"sector": "Healthcare",
+		"industry": "SURGICAL & MEDICAL INSTRUMENTS & APPARATUS",
+		"employees": 181,
+		"region_id": "US"
+	},
+	{
+		"id": "POWI",
+		"name": "Power Integrations, Inc.",
+		"price": 89.39,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 773,
+		"region_id": "US"
+	},
+	{
+		"id": "NTES",
+		"name": "NetEase, Inc.",
+		"price": 88.58,
+		"sector": "Communication Services",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 28239,
+		"region_id": "US"
+	},
+	{
+		"id": "ROST",
+		"name": "Ross Stores, Inc.",
+		"price": 88.57,
+		"sector": "Consumer Cyclical",
+		"industry": "RETAIL FAMILY CLOTHING STORES",
+		"employees": 93700,
+		"region_id": "US"
+	},
+	{
+		"id": "IMKTA",
+		"name": "Ingles Markets, Incorporated",
+		"price": 88.35,
+		"sector": "Consumer Defensive",
+		"industry": "RETAIL GROCERY STORES",
+		"employees": 10920,
+		"region_id": "US"
+	},
+	{
+		"id": "CTSH",
+		"name": "Cognizant Technology Solutions Corporation",
+		"price": 87.96,
+		"sector": "Technology",
+		"industry": "COMPUTER PROGRAMMING SERVICES",
+		"employees": 330600,
+		"region_id": "US"
+	},
+	{
+		"id": "COLM",
+		"name": "Columbia Sportswear Company",
+		"price": 87.76,
+		"sector": "Consumer Cyclical",
+		"industry": "APPAREL & OTHER FINISHD PRODS OF FABRICS & SIMILAR MATL",
+		"employees": 8325,
+		"region_id": "US"
+	},
+	{
+		"id": "ICFI",
+		"name": "ICF International, Inc.",
+		"price": 87.67,
+		"sector": "Industrials",
+		"industry": "MANAGEMENT CONSULTING SERVICES",
+		"employees": 6776,
+		"region_id": "US"
+	},
+	{
+		"id": "CWST",
+		"name": "Casella Waste Systems, Inc.",
+		"price": 87.6,
+		"sector": "Industrials",
+		"industry": "REFUSE SYSTEMS",
+		"employees": 2900,
+		"region_id": "US"
+	},
+	{
+		"id": "SBUX",
+		"name": "Starbucks Corporation",
+		"price": 87.6,
+		"sector": "Consumer Cyclical",
+		"industry": "RETAIL EATING & DRINKING PLACES",
+		"employees": 383000,
+		"region_id": "US"
+	},
+	{
+		"id": "CRAI",
+		"name": "CRA International, Inc.",
+		"price": 87.51,
+		"sector": "Industrials",
+		"industry": "LEGAL SERVICES",
+		"employees": 861,
+		"region_id": "US"
+	},
+	{
+		"id": "ENSG",
+		"name": "The Ensign Group, Inc.",
+		"price": 87.46,
+		"sector": "Healthcare",
+		"industry": "SKILLED NURSING CARE FACILITIES",
+		"employees": 25900,
+		"region_id": "US"
+	},
+	{
+		"id": "PCAR",
+		"name": "PACCAR Inc",
+		"price": 87.32,
+		"sector": "Industrials",
+		"industry": "MOTOR VEHICLES & PASSENGER CAR BODIES",
+		"employees": 28500,
+		"region_id": "US"
+	},
+	{
+		"id": "SFBS",
+		"name": "ServisFirst Bancshares, Inc.",
+		"price": 87.13,
+		"sector": "Financial Services",
+		"industry": "STATE COMMERCIAL BANKS",
+		"employees": 502,
+		"region_id": "US"
+	},
+	{
+		"id": "MRTX",
+		"name": "Mirati Therapeutics, Inc.",
+		"price": 87.0,
+		"sector": "Healthcare",
+		"industry": "PHARMACEUTICAL PREPARATIONS",
+		"employees": 413,
+		"region_id": "US"
+	},
+	{
+		"id": "TRUP",
+		"name": "Trupanion, Inc.",
+		"price": 86.9,
+		"sector": "Financial services",
+		"industry": "Insurance Specialty",
+		"employees": 1131,
+		"region_id": "US"
+	},
+	{
+		"id": "AEIS",
+		"name": "Advanced Energy Industries, Inc.",
+		"price": 86.24,
+		"sector": "Industrials",
+		"industry": "ELECTRONIC COMPONENTS NEC",
+		"employees": 10000,
+		"region_id": "US"
+	},
+	{
+		"id": "ARCB",
+		"name": "ArcBest Corporation",
+		"price": 85.95,
+		"sector": "Industrials",
+		"industry": "TRUCKING (NO LOCAL)",
+		"employees": 14000,
+		"region_id": "US"
+	},
+	{
+		"id": "HSIC",
+		"name": "Henry Schein, Inc.",
+		"price": 85.58,
+		"sector": "Healthcare",
+		"industry": "WHOLESALE MEDICAL DENTAL & HOSPITAL EQUIPMENT & SUPPLIES",
+		"employees": 21600,
+		"region_id": "US"
+	},
+	{
+		"id": "SSB",
+		"name": "SouthState Corporation",
+		"price": 85.43,
+		"sector": "Financial Services",
+		"industry": "STATE COMMERCIAL BANKS",
+		"employees": 4929,
+		"region_id": "US"
+	},
+	{
+		"id": "SAFT",
+		"name": "Safety Insurance Group, Inc.",
+		"price": 85.41,
+		"sector": "Financial Services",
+		"industry": "FIRE MARINE & CASUALTY INSURANCE",
+		"employees": 552,
+		"region_id": "US"
+	},
+	{
+		"id": "CRUS",
+		"name": "Cirrus Logic, Inc.",
+		"price": 85.09,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 1481,
+		"region_id": "US"
+	},
+	{
+		"id": "UFPI",
+		"name": "UFP Industries, Inc.",
+		"price": 84.74,
+		"sector": "Basic Materials",
+		"industry": "SAWMILLS & PLANTING MILLS GENERAL",
+		"employees": 15000,
+		"region_id": "US"
+	},
+	{
+		"id": "MANT",
+		"name": "ManTech International Corporation",
+		"price": 84.71,
+		"sector": "Technology",
+		"industry": "MANAGEMENT SERVICES",
+		"employees": 9800,
+		"region_id": "US"
+	},
+	{
+		"id": "DIOD",
+		"name": "Diodes Incorporated",
+		"price": 84.63,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 7937,
+		"region_id": "US"
+	},
+	{
+		"id": "TW",
+		"name": "Tradeweb Markets Inc.",
+		"price": 84.48,
+		"sector": "Financial Services",
+		"industry": "SECURITY & COMMODITY BROKERS DEALERS EXCHANGES & SERVICES",
+		"employees": 1046,
+		"region_id": "US"
+	},
+	{
+		"id": "SRPT",
+		"name": "Sarepta Therapeutics, Inc.",
+		"price": 84.45,
+		"sector": "Healthcare",
+		"industry": "PHARMACEUTICAL PREPARATIONS",
+		"employees": 840,
+		"region_id": "US"
+	},
+	{
+		"id": "AZTA",
+		"name": "Azenta, Inc.",
+		"price": 84.23,
+		"sector": "Technology",
+		"industry": "Medical Instruments & Supplies",
+		"employees": 2900,
+		"region_id": "US"
+	},
+	{
+		"id": "BPOP",
+		"name": "Popular, Inc.",
+		"price": 83.96,
+		"sector": "Financial Services",
+		"industry": "STATE COMMERCIAL BANKS",
+		"employees": 8351,
+		"region_id": "US"
+	},
+	{
+		"id": "QRTEP",
+		"name": "Qurate Retail, Inc.",
+		"price": 83.18,
+		"sector": "Consumer Cyclical",
+		"industry": "RETAIL CATALOG & MAIL ORDER HOUSES",
+		"employees": 26745,
+		"region_id": "US"
+	},
+	{
+		"id": "INDB",
+		"name": "Independent Bank Corp.",
+		"price": 83.1,
+		"sector": "Financial Services",
+		"industry": "Banks Regional",
+		"employees": 1691,
+		"region_id": "US"
+	},
+	{
+		"id": "KRNT",
+		"name": "Kornit Digital Ltd.",
+		"price": 82.92,
+		"sector": "Industrials",
+		"industry": "PRINTING TRADES MACHINERY & EQUIPMENT",
+		"employees": 672,
+		"region_id": "US"
+	},
+	{
+		"id": "FELE",
+		"name": "Franklin Electric Co., Inc.",
+		"price": 82.78,
+		"sector": "Industrials",
+		"industry": "MOTORS & GENERATORS",
+		"employees": 6400,
+		"region_id": "US"
+	},
+	{
+		"id": "IPAR",
+		"name": "Inter Parfums, Inc.",
+		"price": 82.59,
+		"sector": "Consumer Defensive",
+		"industry": "PERFUMES COSMETICS & OTHER TOILET PREPARATIONS",
+		"employees": 467,
+		"region_id": "US"
+	},
+	{
+		"id": "AAWW",
+		"name": "Atlas Air Worldwide Holdings, Inc.",
+		"price": 82.31,
+		"sector": "Industrials",
+		"industry": "AIR TRANSPORTATION NONSCHEDULED",
+		"employees": 4056,
+		"region_id": "US"
+	},
+	{
+		"id": "PLXS",
+		"name": "Plexus Corp.",
+		"price": 82.27,
+		"sector": "Technology",
+		"industry": "PRINTED CIRCUIT BOARDS",
+		"employees": 19000,
+		"region_id": "US"
+	},
+	{
+		"id": "JACK",
+		"name": "Jack in the Box Inc.",
+		"price": 82.09,
+		"sector": "Consumer Cyclical",
+		"industry": "RETAIL EATING PLACES",
+		"employees": 2605,
+		"region_id": "US"
+	},
+	{
+		"id": "SIGI",
+		"name": "Selective Insurance Group, Inc.",
+		"price": 82.05,
+		"sector": "Financial Services",
+		"industry": "FIRE MARINE & CASUALTY INSURANCE",
+		"employees": 2440,
+		"region_id": "US"
+	},
+	{
+		"id": "CATC",
+		"name": "Cambridge Bancorp",
+		"price": 82.0,
+		"sector": "Financial Services",
+		"industry": "STATE COMMERCIAL BANKS",
+		"employees": 372,
+		"region_id": "US"
+	},
+	{
+		"id": "ACMR",
+		"name": "ACM Research, Inc.",
+		"price": 81.85,
+		"sector": "Technology",
+		"industry": "SPECIAL INDUSTRY MACHINERY NEC",
+		"employees": 543,
+		"region_id": "US"
+	},
+	{
+		"id": "RYAAY",
+		"name": "Ryanair Holdings plc",
+		"price": 81.56,
+		"sector": "Industrials",
+		"industry": "AIR TRANSPORTATION SCHEDULED",
+		"employees": 18500,
+		"region_id": "US"
+	},
+	{
+		"id": "JOUT",
+		"name": "Johnson Outdoors Inc.",
+		"price": 81.08,
+		"sector": "Consumer Cyclical",
+		"industry": "SPORTING & ATHLETIC GOODS NEC",
+		"employees": 1400,
+		"region_id": "US"
+	},
+	{
+		"id": "ADUS",
+		"name": "Addus HomeCare Corporation",
+		"price": 81.03,
+		"sector": "Healthcare",
+		"industry": "HOME HEALTH CARE SERVICES",
+		"employees": 5416,
+		"region_id": "US"
+	},
+	{
+		"id": "PNRG",
+		"name": "PrimeEnergy Resources Corporation",
+		"price": 81.0,
+		"sector": "Energy",
+		"industry": "CRUDE PETROLEUM & NATURAL GAS",
+		"employees": 96,
+		"region_id": "US"
+	},
+	{
+		"id": "HUBG",
+		"name": "Hub Group, Inc.",
+		"price": 80.94,
+		"sector": "Industrials",
+		"industry": "ARRANGEMENT OF TRANSPORTATION OF FREIGHT & CARGO",
+		"employees": 4700,
+		"region_id": "US"
+	},
+	{
+		"id": "ATVI",
+		"name": "Activision Blizzard, Inc.",
+		"price": 80.83,
+		"sector": "Communication Services",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 9800,
+		"region_id": "US"
+	},
+	{
+		"id": "NTAP",
+		"name": "NetApp, Inc.",
+		"price": 80.78,
+		"sector": "Technology",
+		"industry": "COMPUTER STORAGE DEVICES",
+		"employees": 11000,
+		"region_id": "US"
+	},
+	{
+		"id": "MGRC",
+		"name": "McGrath RentCorp",
+		"price": 80.5,
+		"sector": "Industrials",
+		"industry": "Rental & Leasing Services",
+		"employees": 1184,
+		"region_id": "US"
+	},
+	{
+		"id": "OSIS",
+		"name": "OSI Systems, Inc.",
+		"price": 80.5,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 6778,
+		"region_id": "US"
+	},
+	{
+		"id": "JBSS",
+		"name": "John B. Sanfilippo & Son, Inc.",
+		"price": 80.44,
+		"sector": "Consumer Defensive",
+		"industry": "SUGAR & CONFECTIONERY PRODUCTS",
+		"employees": 1300,
+		"region_id": "US"
+	},
+	{
+		"id": "WIX",
+		"name": "Wix.com Ltd.",
+		"price": 80.34,
+		"sector": "Technology",
+		"industry": "COMPUTER PROGRAMMING DATA PROCESSING ETC.",
+		"employees": 3803,
+		"region_id": "US"
+	},
+	{
+		"id": "PEGA",
+		"name": "Pegasystems Inc.",
+		"price": 80.23,
+		"sector": "Technology",
+		"industry": "COMPUTER PROCESSING & DATA PREPARATION",
+		"employees": 6133,
+		"region_id": "US"
+	},
+	{
+		"id": "MCRI",
+		"name": "Monarch Casino & Resort, Inc.",
+		"price": 80.22,
+		"sector": "Consumer Cyclical",
+		"industry": "HOTELS & MOTELS",
+		"employees": 2650,
+		"region_id": "US"
+	},
+	{
+		"id": "DUOL",
+		"name": "Duolingo, Inc.",
+		"price": 80.09,
+		"sector": "Technology",
+		"industry": "Software Application",
+		"employees": 400,
+		"region_id": "US"
+	},
+	{
+		"id": "MGPI",
+		"name": "MGP Ingredients, Inc.",
+		"price": 79.69,
+		"sector": "Consumer Defensive",
+		"industry": "WHOLESALE BEER WINE & DISTILLED ALCOHOLIC BEVERAGES",
+		"employees": 672,
+		"region_id": "US"
+	},
+	{
+		"id": "MIME",
+		"name": "Mimecast Limited",
+		"price": 79.58,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 1765,
+		"region_id": "US"
+	},
+	{
+		"id": "MU",
+		"name": "Micron Technology, Inc.",
+		"price": 79.44,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 43000,
+		"region_id": "US"
+	},
+	{
+		"id": "DOX",
+		"name": "Amdocs Limited",
+		"price": 79.43,
+		"sector": "Technology",
+		"industry": "COMPUTER PROGRAMMING SERVICES",
+		"employees": 29000,
+		"region_id": "US"
+	},
+	{
+		"id": "VICR",
+		"name": "Vicor Corporation",
+		"price": 79.08,
+		"sector": "Technology",
+		"industry": "ELECTRONIC COMPONENTS NEC",
+		"employees": 1027,
+		"region_id": "US"
+	},
+	{
+		"id": "NVAX",
+		"name": "Novavax, Inc.",
+		"price": 79.07,
+		"sector": "Healthcare",
+		"industry": "BIOLOGICAL PRODUCTS (NO DISGNOSTIC SUBSTANCES)",
+		"employees": 1541,
+		"region_id": "US"
+	},
+	{
+		"id": "FSLR",
+		"name": "First Solar, Inc.",
+		"price": 78.89,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 4800,
+		"region_id": "US"
+	},
+	{
+		"id": "BMRN",
+		"name": "BioMarin Pharmaceutical Inc.",
+		"price": 78.87,
+		"sector": "Healthcare",
+		"industry": "PHARMACEUTICAL PREPARATIONS",
+		"employees": 3045,
+		"region_id": "US"
+	},
+	{
+		"id": "CHCO",
+		"name": "City Holding Company",
+		"price": 78.66,
+		"sector": "Financial Services",
+		"industry": "NATIONAL COMMERCIAL BANKS",
+		"employees": 905,
+		"region_id": "US"
+	},
+	{
+		"id": "LKFN",
+		"name": "Lakeland Financial Corporation",
+		"price": 78.6,
+		"sector": "Financial Services",
+		"industry": "STATE COMMERCIAL BANKS",
+		"employees": 567,
+		"region_id": "US"
+	},
+	{
+		"id": "TXRH",
+		"name": "Texas Roadhouse, Inc.",
+		"price": 78.21,
+		"sector": "Consumer Cyclical",
+		"industry": "RETAIL EATING PLACES",
+		"employees": 73300,
+		"region_id": "US"
+	},
+	{
+		"id": "SYNH",
+		"name": "Syneos Health, Inc.",
+		"price": 78.13,
+		"sector": "Healthcare",
+		"industry": "COMMERCIAL PHYSICAL & BIOLOGICAL RESEARCH",
+		"employees": 26751,
+		"region_id": "US"
+	},
+	{
+		"id": "TTEC",
+		"name": "TTEC Holdings, Inc.",
+		"price": 78.07,
+		"sector": "Technology",
+		"industry": "HELP SUPPLY SERVICES",
+		"employees": 65000,
+		"region_id": "US"
+	},
+	{
+		"id": "CZR",
+		"name": "Caesars Entertainment, Inc.",
+		"price": 77.59,
+		"sector": "Consumer Cyclical",
+		"industry": "HOTELS & MOTELS",
+		"employees": 49000,
+		"region_id": "US"
+	},
+	{
+		"id": "BANF",
+		"name": "BancFirst Corporation",
+		"price": 77.52,
+		"sector": "Financial Services",
+		"industry": "NATIONAL COMMERCIAL BANKS",
+		"employees": 1948,
+		"region_id": "US"
+	},
+	{
+		"id": "EWBC",
+		"name": "East West Bancorp, Inc.",
+		"price": 77.32,
+		"sector": "Financial Services",
+		"industry": "STATE COMMERCIAL BANKS",
+		"employees": 3100,
+		"region_id": "US"
+	},
+	{
+		"id": "WYNN",
+		"name": "Wynn Resorts, Limited",
+		"price": 77.27,
+		"sector": "Consumer Cyclical",
+		"industry": "HOTELS & MOTELS",
+		"employees": 26950,
+		"region_id": "US"
+	},
+	{
+		"id": "HLNE",
+		"name": "Hamilton Lane Incorporated",
+		"price": 77.07,
+		"sector": "Financial Services",
+		"industry": "INVESTMENT ADVICE",
+		"employees": 450,
+		"region_id": "US"
+	},
+	{
+		"id": "MNST",
+		"name": "Monster Beverage Corporation",
+		"price": 76.68,
+		"sector": "Consumer Defensive",
+		"industry": "BOTTLED & CANNED SOFT DRINKS & CARBONATED WATERS",
+		"employees": 3458,
+		"region_id": "US"
+	},
+	{
+		"id": "AVAV",
+		"name": "AeroVironment, Inc.",
+		"price": 76.46,
+		"sector": "Industrials",
+		"industry": "AIRCRAFT",
+		"employees": 1165,
+		"region_id": "US"
+	},
+	{
+		"id": "TRNS",
+		"name": "Transcat, Inc.",
+		"price": 76.32,
+		"sector": "Industrials",
+		"industry": "INSTRUMENTS FOR MEAS & TESTING OF ELECTRICITY & ELEC SIGNALS",
+		"employees": 765,
+		"region_id": "US"
+	},
+	{
+		"id": "TTGT",
+		"name": "TechTarget, Inc.",
+		"price": 75.81,
+		"sector": "Communication Services",
+		"industry": "BUSINESS SERVICES NEC",
+		"employees": 940,
+		"region_id": "US"
+	},
+	{
+		"id": "IBTX",
+		"name": "Independent Bank Group, Inc.",
+		"price": 75.29,
+		"sector": "Financial Services",
+		"industry": "STATE COMMERCIAL BANKS",
+		"employees": 1543,
+		"region_id": "US"
+	},
+	{
+		"id": "PSMT",
+		"name": "PriceSmart, Inc.",
+		"price": 75.24,
+		"sector": "Consumer Defensive",
+		"industry": "RETAIL VARIETY STORES",
+		"employees": 10400,
+		"region_id": "US"
+	},
+	{
+		"id": "SSNC",
+		"name": "SS&C Technologies Holdings, Inc.",
+		"price": 75.07,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 24900,
+		"region_id": "US"
+	},
+	{
+		"id": "MGEE",
+		"name": "MGE Energy, Inc.",
+		"price": 75.01,
+		"sector": "Utilities",
+		"industry": "ELECTRIC GAS & SANITARY SERVICES",
+		"employees": 731,
+		"region_id": "US"
+	},
+	{
+		"id": "AMRK",
+		"name": "A-Mark Precious Metals, Inc.",
+		"price": 74.7,
+		"sector": "Financial Services",
+		"industry": "Capital Markets",
+		"employees": 343,
+		"region_id": "US"
+	},
+	{
+		"id": "PFBC",
+		"name": "Preferred Bank",
+		"price": 74.64,
+		"sector": "Financial Services",
+		"industry": "Banks Regional",
+		"employees": 266,
+		"region_id": "US"
+	},
+	{
+		"id": "BLDR",
+		"name": "Builders FirstSource, Inc.",
+		"price": 73.85,
+		"sector": "Industrials",
+		"industry": "RETAIL LUMBER & OTHER BUILDING MATERIALS DEALERS",
+		"employees": 28000,
+		"region_id": "US"
+	},
+	{
+		"id": "DSGX",
+		"name": "The Descartes Systems Group Inc",
+		"price": 73.57,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 1334,
+		"region_id": "US"
+	},
+	{
+		"id": "LOGI",
+		"name": "Logitech International S.A.",
+		"price": 73.33,
+		"sector": "Technology",
+		"industry": "COMPUTER PERIPHERAL EQUIPMENT NEC",
+		"employees": 9000,
+		"region_id": "US"
+	},
+	{
+		"id": "CROX",
+		"name": "Crocs, Inc.",
+		"price": 73.17,
+		"sector": "Consumer Cyclical",
+		"industry": "RUBBER & PLASTICS FOOTWEAR",
+		"employees": 5770,
+		"region_id": "US"
+	},
+	{
+		"id": "LIVN",
+		"name": "LivaNova PLC",
+		"price": 73.15,
+		"sector": "Healthcare",
+		"industry": "Medical Devices",
+		"employees": 3000,
+		"region_id": "US"
+	},
+	{
+		"id": "BBSI",
+		"name": "Barrett Business Services, Inc.",
+		"price": 73.11,
+		"sector": "Industrials",
+		"industry": "HELP SUPPLY SERVICES",
+		"employees": 115075,
+		"region_id": "US"
+	},
+	{
+		"id": "GSHD",
+		"name": "Goosehead Insurance, Inc",
+		"price": 72.84,
+		"sector": "Financial Services",
+		"industry": "INSURANCE AGENTS BROKERS & SERVICE",
+		"employees": 1238,
+		"region_id": "US"
+	},
+	{
+		"id": "EXAS",
+		"name": "Exact Sciences Corporation",
+		"price": 72.26,
+		"sector": "Healthcare",
+		"industry": "COMMERCIAL PHYSICAL & BIOLOGICAL RESEARCH",
+		"employees": 6420,
+		"region_id": "US"
+	},
+	{
+		"id": "HLIO",
+		"name": "Helios Technologies, Inc.",
+		"price": 72.19,
+		"sector": "Industrials",
+		"industry": "MISCELLANEOUS FABRICATED METAL PRODUCTS",
+		"employees": 2350,
+		"region_id": "US"
+	},
+	{
+		"id": "INCY",
+		"name": "Incyte Corporation",
+		"price": 72.01,
+		"sector": "Healthcare",
+		"industry": "COMMERCIAL PHYSICAL & BIOLOGICAL RESEARCH",
+		"employees": 2094,
+		"region_id": "US"
+	},
+	{
+		"id": "STLD",
+		"name": "Steel Dynamics, Inc.",
+		"price": 71.95,
+		"sector": "Basic Materials",
+		"industry": "STEEL WORKS BLAST FURNACES & ROLLING MILLS (COKE OVENS)",
+		"employees": 10640,
+		"region_id": "US"
+	},
+	{
+		"id": "NVCR",
+		"name": "NovoCure Limited",
+		"price": 71.58,
+		"sector": "Healthcare",
+		"industry": "SURGICAL & MEDICAL INSTRUMENTS & APPARATUS",
+		"employees": 1167,
+		"region_id": "US"
+	},
+	{
+		"id": "PCRX",
+		"name": "Pacira BioSciences, Inc.",
+		"price": 71.5,
+		"sector": "Healthcare",
+		"industry": "PHARMACEUTICAL PREPARATIONS",
+		"employees": 697,
+		"region_id": "US"
+	},
+	{
+		"id": "BL",
+		"name": "BlackLine, Inc.",
+		"price": 71.5,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 1557,
+		"region_id": "US"
+	},
+	{
+		"id": "HOLX",
+		"name": "Hologic, Inc.",
+		"price": 71.16,
+		"sector": "Healthcare",
+		"industry": "X RAY APPARATUS & TUBES & RELATED IRRADIATION APPARATUS",
+		"employees": 6705,
+		"region_id": "US"
+	},
+	{
+		"id": "CBSH",
+		"name": "Commerce Bancshares, Inc.",
+		"price": 71.02,
+		"sector": "Financial Services",
+		"industry": "STATE COMMERCIAL BANKS",
+		"employees": 4387,
+		"region_id": "US"
+	},
+	{
+		"id": "MCHP",
+		"name": "Microchip Technology Incorporated",
+		"price": 70.88,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 19500,
+		"region_id": "US"
+	},
+	{
+		"id": "BFC",
+		"name": "Bank First Corporation",
+		"price": 70.74,
+		"sector": "Financial Services",
+		"industry": "NATIONAL COMMERCIAL BANKS",
+		"employees": 287,
+		"region_id": "US"
+	},
+	{
+		"id": "SIMO",
+		"name": "Silicon Motion Technology Corporation",
+		"price": 70.71,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 1323,
+		"region_id": "US"
+	},
+	{
+		"id": "TXG",
+		"name": "10x Genomics, Inc.",
+		"price": 70.48,
+		"sector": "Healthcare",
+		"industry": "LABORATORY ANALYTICAL INSTRUMENTS",
+		"employees": 1239,
+		"region_id": "US"
+	},
+	{
+		"id": "SNEX",
+		"name": "StoneX Group Inc.",
+		"price": 70.31,
+		"sector": "Financial Services",
+		"industry": "SECURITY & COMMODITY BROKERS DEALERS EXCHANGES & SERVICES",
+		"employees": 3297,
+		"region_id": "US"
+	},
+	{
+		"id": "ENTA",
+		"name": "Enanta Pharmaceuticals, Inc.",
+		"price": 70.23,
+		"sector": "Healthcare",
+		"industry": "PHARMACEUTICAL PREPARATIONS",
+		"employees": 155,
+		"region_id": "US"
+	},
+	{
+		"id": "THRM",
+		"name": "Gentherm Incorporated",
+		"price": 70.13,
+		"sector": "Consumer Cyclical",
+		"industry": "MOTOR VEHICLE PARTS & ACCESSORIES",
+		"employees": 10474,
+		"region_id": "US"
+	},
+	{
+		"id": "STAA",
+		"name": "STAAR Surgical Company",
+		"price": 69.84,
+		"sector": "Healthcare",
+		"industry": "OPHTHALMIC GOODS",
+		"employees": 692,
+		"region_id": "US"
+	},
+	{
+		"id": "XEL",
+		"name": "Xcel Energy Inc.",
+		"price": 69.84,
+		"sector": "Utilities",
+		"industry": "ELECTRIC & OTHER SERVICES COMBINED",
+		"employees": 11321,
+		"region_id": "US"
+	},
+	{
+		"id": "KFRC",
+		"name": "Kforce Inc.",
+		"price": 69.48,
+		"sector": "Industrials",
+		"industry": "HELP SUPPLY SERVICES",
+		"employees": 2000,
+		"region_id": "US"
+	},
+	{
+		"id": "PTSI",
+		"name": "P.A.M. Transportation Services, Inc.",
+		"price": 69.31,
+		"sector": "Industrials",
+		"industry": "TRUCKING (NO LOCAL)",
+		"employees": 2650,
+		"region_id": "US"
+	},
+	{
+		"id": "PDCE",
+		"name": "PDC Energy, Inc.",
+		"price": 69.2,
+		"sector": "Energy",
+		"industry": "CRUDE PETROLEUM & NATURAL GAS",
+		"employees": 535,
+		"region_id": "US"
+	},
+	{
+		"id": "CHNGU",
+		"name": "Change Healthcare Inc.",
+		"price": 68.2,
+		"sector": "Industrials",
+		"industry": "COMPUTER PROCESSING & DATA PREPARATION",
+		"employees": null,
+		"region_id": "US"
+	},
+	{
+		"id": "PLL",
+		"name": "Piedmont Lithium Inc.",
+		"price": 68.01,
+		"sector": "Basic Materials",
+		"industry": "MINING & QUARRYING OF NONMETALLIC MINERALS (NO FUELS)",
+		"employees": 28,
+		"region_id": "US"
+	},
+	{
+		"id": "ARVN",
+		"name": "Arvinas, Inc.",
+		"price": 68.0,
+		"sector": "Healthcare",
+		"industry": "PHARMACEUTICAL PREPARATIONS",
+		"employees": 280,
+		"region_id": "US"
+	},
+	{
+		"id": "TRMB",
+		"name": "Trimble Inc.",
+		"price": 67.71,
+		"sector": "Technology",
+		"industry": "MEASURING & CONTROLLING DEVICES NEC",
+		"employees": 11931,
+		"region_id": "US"
+	},
+	{
+		"id": "RARE",
+		"name": "Ultragenyx Pharmaceutical Inc.",
+		"price": 67.66,
+		"sector": "Healthcare",
+		"industry": "Biotechnology",
+		"employees": 1119,
+		"region_id": "US"
+	},
+	{
+		"id": "PATK",
+		"name": "Patrick Industries, Inc.",
+		"price": 67.46,
+		"sector": "Industrials",
+		"industry": "MOTOR VEHICLE PARTS & ACCESSORIES",
+		"employees": 11000,
+		"region_id": "US"
+	},
+	{
+		"id": "MRCY",
+		"name": "Mercury Systems, Inc.",
+		"price": 67.01,
+		"sector": "Industrials",
+		"industry": "ELECTRONIC COMPONENTS & ACCESSORIES",
+		"employees": 2316,
+		"region_id": "US"
+	},
+	{
+		"id": "ALRM",
+		"name": "Alarm.com Holdings, Inc.",
+		"price": 66.7,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 1500,
+		"region_id": "US"
+	},
+	{
+		"id": "MRVL",
+		"name": "Marvell Technology, Inc.",
+		"price": 66.55,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 5287,
+		"region_id": "US"
+	},
+	{
+		"id": "CGNX",
+		"name": "Cognex Corporation",
+		"price": 66.48,
+		"sector": "Technology",
+		"industry": "INDUSTRIAL INSTRUMENTS FOR MEASUREMENT DISPLAY AND CONTROL",
+		"employees": 2257,
+		"region_id": "US"
+	},
+	{
+		"id": "TTD",
+		"name": "The Trade Desk, Inc.",
+		"price": 66.4,
+		"sector": "Technology",
+		"industry": "COMPUTER PROGRAMMING DATA PROCESSING ETC.",
+		"employees": 1967,
+		"region_id": "US"
+	},
+	{
+		"id": "BRKR",
+		"name": "Bruker Corporation",
+		"price": 66.39,
+		"sector": "Healthcare",
+		"industry": "LABORATORY ANALYTICAL INSTRUMENTS",
+		"employees": 7400,
+		"region_id": "US"
+	},
+	{
+		"id": "ECPG",
+		"name": "Encore Capital Group, Inc.",
+		"price": 66.29,
+		"sector": "Financial Services",
+		"industry": "SHORT TERM BUSINESS CREDIT INSTITUTIONS",
+		"employees": 6604,
+		"region_id": "US"
+	},
+	{
+		"id": "IART",
+		"name": "Integra LifeSciences Holdings Corporation",
+		"price": 66.2,
+		"sector": "Healthcare",
+		"industry": "SURGICAL & MEDICAL INSTRUMENTS & APPARATUS",
+		"employees": 3800,
+		"region_id": "US"
+	},
+	{
+		"id": "PFG",
+		"name": "Principal Financial Group, Inc.",
+		"price": 66.17,
+		"sector": "Financial Services",
+		"industry": "ACCIDENT & HEALTH INSURANCE",
+		"employees": 18600,
+		"region_id": "US"
+	},
+	{
+		"id": "NTLA",
+		"name": "Intellia Therapeutics, Inc.",
+		"price": 65.99,
+		"sector": "Healthcare",
+		"industry": "IN VITRO & IN VIVO DIAGNOSTIC SUBSTANCES",
+		"employees": 485,
+		"region_id": "US"
+	},
+	{
+		"id": "TCX",
+		"name": "Tucows Inc.",
+		"price": 65.84,
+		"sector": "Technology",
+		"industry": "COMPUTER PROCESSING & DATA PREPARATION",
+		"employees": 1000,
+		"region_id": "US"
+	},
+	{
+		"id": "IIVI",
+		"name": "II-VI Incorporated",
+		"price": 65.76,
+		"sector": "Technology",
+		"industry": "OPTICAL INSTRUMENTS & LENSES",
+		"employees": 22961,
+		"region_id": "US"
+	},
+	{
+		"id": "ACLS",
+		"name": "Axcelis Technologies, Inc.",
+		"price": 65.73,
+		"sector": "Technology",
+		"industry": "SPECIAL INDUSTRY MACHINERY NEC",
+		"employees": 1122,
+		"region_id": "US"
+	},
+	{
+		"id": "UFPT",
+		"name": "UFP Technologies, Inc.",
+		"price": 65.5,
+		"sector": "Consumer Cyclical",
+		"industry": "SURGICAL & MEDICAL INSTRUMENTS & APPARATUS",
+		"employees": 860,
+		"region_id": "US"
+	},
+	{
+		"id": "SPT",
+		"name": "Sprout Social, Inc.",
+		"price": 65.45,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 887,
+		"region_id": "US"
+	},
+	{
+		"id": "ZION",
+		"name": "Zions Bancorporation, National Association",
+		"price": 65.13,
+		"sector": "Financial Services",
+		"industry": "NATIONAL COMMERCIAL BANKS",
+		"employees": 9685,
+		"region_id": "US"
+	},
+	{
+		"id": "BEAM",
+		"name": "Beam Therapeutics Inc.",
+		"price": 65.11,
+		"sector": "Healthcare",
+		"industry": "BIOLOGICAL PRODUCTS (NO DISGNOSTIC SUBSTANCES)",
+		"employees": 341,
+		"region_id": "US"
+	},
+	{
+		"id": "MMSI",
+		"name": "Merit Medical Systems, Inc.",
+		"price": 65.0,
+		"sector": "Healthcare",
+		"industry": "SURGICAL & MEDICAL INSTRUMENTS & APPARATUS",
+		"employees": 6446,
+		"region_id": "US"
+	},
+	{
+		"id": "SMTC",
+		"name": "Semtech Corporation",
+		"price": 64.92,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 1394,
+		"region_id": "US"
+	},
+	{
+		"id": "ALTR",
+		"name": "Altair Engineering Inc.",
+		"price": 64.91,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 3050,
+		"region_id": "US"
+	},
+	{
+		"id": "FCFS",
+		"name": "FirstCash Holdings, Inc",
+		"price": 64.85,
+		"sector": "Financial Services",
+		"industry": "RETAIL MISCELLANEOUS RETAIL",
+		"employees": 17000,
+		"region_id": "US"
+	},
+	{
+		"id": "ATRC",
+		"name": "AtriCure, Inc.",
+		"price": 64.79,
+		"sector": "Healthcare",
+		"industry": "SURGICAL & MEDICAL INSTRUMENTS & APPARATUS",
+		"employees": 875,
+		"region_id": "US"
+	},
+	{
+		"id": "MBUU",
+		"name": "Malibu Boats, Inc.",
+		"price": 64.29,
+		"sector": "Consumer Cyclical",
+		"industry": "SHIP & BOAT BUILDING & REPAIRING",
+		"employees": 2645,
+		"region_id": "US"
+	},
+	{
+		"id": "CSGS",
+		"name": "CSG Systems International, Inc.",
+		"price": 64.18,
+		"sector": "Technology",
+		"industry": "COMPUTER PROCESSING & DATA PREPARATION",
+		"employees": 5200,
+		"region_id": "US"
+	},
+	{
+		"id": "CCOI",
+		"name": "Cogent Communications Holdings, Inc.",
+		"price": 63.87,
+		"sector": "Communication Services",
+		"industry": "COMMUNICATIONS SERVICES NEC",
+		"employees": 1001,
+		"region_id": "US"
+	},
+	{
+		"id": "ACHC",
+		"name": "Acadia Healthcare Company, Inc.",
+		"price": 63.86,
+		"sector": "Healthcare",
+		"industry": "SPECIALTY OUTPATIENT FACILITIES NEC",
+		"employees": 15900,
+		"region_id": "US"
+	},
+	{
+		"id": "PLPC",
+		"name": "Preformed Line Products Company",
+		"price": 63.74,
+		"sector": "Industrials",
+		"industry": "WATER SEWER PIPELINE COMM & POWER LINE CONSTRUCTION",
+		"employees": 2969,
+		"region_id": "US"
+	},
+	{
+		"id": "IDCC",
+		"name": "InterDigital, Inc.",
+		"price": 63.52,
+		"sector": "Communication Services",
+		"industry": "PATENT OWNERS & LESSORS",
+		"employees": 510,
+		"region_id": "US"
+	},
+	{
+		"id": "SNBR",
+		"name": "Sleep Number Corporation",
+		"price": 63.33,
+		"sector": "Consumer Cyclical",
+		"industry": "HOUSEHOLD FURNITURE",
+		"employees": 5260,
+		"region_id": "US"
+	},
+	{
+		"id": "EGLE",
+		"name": "Eagle Bulk Shipping Inc.",
+		"price": 63.32,
+		"sector": "Industrials",
+		"industry": "DEEP SEA FOREIGN TRANSPORTATION OF FREIGHT",
+		"employees": 900,
+		"region_id": "US"
+	},
+	{
+		"id": "CVLT",
+		"name": "Commvault Systems, Inc.",
+		"price": 63.21,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 2700,
+		"region_id": "US"
+	},
+	{
+		"id": "OTTR",
+		"name": "Otter Tail Corporation",
+		"price": 62.98,
+		"sector": "Utilities",
+		"industry": "Utilities Diversified",
+		"employees": 2487,
+		"region_id": "US"
+	},
+	{
+		"id": "CMPR",
+		"name": "Cimpress plc",
+		"price": 62.98,
+		"sector": "Communication Services",
+		"industry": "COMMERCIAL PRINTING",
+		"employees": 13000,
+		"region_id": "US"
+	},
+	{
+		"id": "RILY",
+		"name": "B. Riley Financial, Inc.",
+		"price": 62.84,
+		"sector": "Financial Services",
+		"industry": "BUSINESS SERVICES NEC",
+		"employees": 1406,
+		"region_id": "US"
+	},
+	{
+		"id": "CRSP",
+		"name": "CRISPR Therapeutics AG",
+		"price": 62.42,
+		"sector": "Healthcare",
+		"industry": "BIOLOGICAL PRODUCTS (NO DISGNOSTIC SUBSTANCES)",
+		"employees": 473,
+		"region_id": "US"
+	},
+	{
+		"id": "JD",
+		"name": "JD.com, Inc.",
+		"price": 62.4,
+		"sector": "Consumer Cyclical",
+		"industry": "RETAIL RETAIL STORES NEC",
+		"employees": 314906,
+		"region_id": "US"
+	},
+	{
+		"id": "KRYS",
+		"name": "Krystal Biotech, Inc.",
+		"price": 62.22,
+		"sector": "Healthcare",
+		"industry": "BIOLOGICAL PRODUCTS (NO DISGNOSTIC SUBSTANCES)",
+		"employees": 119,
+		"region_id": "US"
+	},
+	{
+		"id": "ESTA",
+		"name": "Establishment Labs Holdings Inc.",
+		"price": 62.11,
+		"sector": "Healthcare",
+		"industry": "ORTHOPEDIC PROSTHETIC & SURGICAL APPLIANCES & SUPPLIES",
+		"employees": 746,
+		"region_id": "US"
+	},
+	{
+		"id": "IBKR",
+		"name": "Interactive Brokers Group, Inc.",
+		"price": 61.54,
+		"sector": "Financial Services",
+		"industry": "SECURITY BROKERS DEALERS & FLOTATION COMPANIES",
+		"employees": 2571,
+		"region_id": "US"
+	},
+	{
+		"id": "DOOO",
+		"name": "BRP Inc.",
+		"price": 61.4,
+		"sector": "Consumer Cyclical",
+		"industry": "MISCELLANEOUS TRANSPORTATION EQUIPMENT",
+		"employees": 14500,
+		"region_id": "US"
+	},
+	{
+		"id": "MDLZ",
+		"name": "Mondelez International, Inc.",
+		"price": 61.29,
+		"sector": "Consumer Defensive",
+		"industry": "FOOD AND KINDRED PRODUCTS",
+		"employees": 79000,
+		"region_id": "US"
+	},
+	{
+		"id": "PI",
+		"name": "Impinj, Inc.",
+		"price": 61.24,
+		"sector": "Technology",
+		"industry": "ELECTRONIC COMPONENTS NEC",
+		"employees": 332,
+		"region_id": "US"
+	},
+	{
+		"id": "RICK",
+		"name": "RCI Hospitality Holdings, Inc.",
+		"price": 61.11,
+		"sector": "Consumer Cyclical",
+		"industry": "RETAIL EATING PLACES",
+		"employees": 2529,
+		"region_id": "US"
+	},
+	{
+		"id": "REGI",
+		"name": "Renewable Energy Group, Inc.",
+		"price": 60.97,
+		"sector": "Energy",
+		"industry": "INDUSTRIAL ORGANIC CHEMICALS",
+		"employees": 1196,
+		"region_id": "US"
+	},
+	{
+		"id": "VALU",
+		"name": "Value Line, Inc.",
+		"price": 60.87,
+		"sector": "Financial Services",
+		"industry": "INVESTMENT ADVICE",
+		"employees": 166,
+		"region_id": "US"
+	},
+	{
+		"id": "IRBT",
+		"name": "iRobot Corporation",
+		"price": 60.87,
+		"sector": "Technology",
+		"industry": "HOUSEHOLD APPLIANCES",
+		"employees": 1372,
+		"region_id": "US"
+	},
+	{
+		"id": "GLPG",
+		"name": "Galapagos NV",
+		"price": 60.82,
+		"sector": "Healthcare",
+		"industry": "PHARMACEUTICAL PREPARATIONS",
+		"employees": 1319,
+		"region_id": "US"
+	},
+	{
+		"id": "TCBI",
+		"name": "Texas Capital Bancshares, Inc.",
+		"price": 60.72,
+		"sector": "Financial Services",
+		"industry": "STATE COMMERCIAL BANKS",
+		"employees": 1751,
+		"region_id": "US"
+	},
+	{
+		"id": "PLMR",
+		"name": "Palomar Holdings, Inc.",
+		"price": 60.7,
+		"sector": "Financial Services",
+		"industry": "FIRE MARINE & CASUALTY INSURANCE",
+		"employees": 151,
+		"region_id": "US"
+	},
+	{
+		"id": "CCSI",
+		"name": "Consensus Cloud Solutions, Inc.",
+		"price": 60.5,
+		"sector": "Technology",
+		"industry": "Software Infrastructure",
+		"employees": 440,
+		"region_id": "US"
+	},
+	{
+		"id": "CLFD",
+		"name": "Clearfield, Inc.",
+		"price": 60.41,
+		"sector": "Technology",
+		"industry": "TELEPHONE & TELEGRAPH APPARATUS",
+		"employees": 250,
+		"region_id": "US"
+	},
+	{
+		"id": "GH",
+		"name": "Guardant Health, Inc.",
+		"price": 60.29,
+		"sector": "Healthcare",
+		"industry": "Diagnostics & Research",
+		"employees": 1373,
+		"region_id": "US"
+	},
+	{
+		"id": "SWTX",
+		"name": "SpringWorks Therapeutics, Inc.",
+		"price": 60.23,
+		"sector": "Healthcare",
+		"industry": "BIOLOGICAL PRODUCTS (NO DISGNOSTIC SUBSTANCES)",
+		"employees": 176,
+		"region_id": "US"
+	},
+	{
+		"id": "GSBC",
+		"name": "Great Southern Bancorp, Inc.",
+		"price": 60.0,
+		"sector": "Financial Services",
+		"industry": "STATE COMMERCIAL BANKS",
+		"employees": 1200,
+		"region_id": "US"
+	},
+	{
+		"id": "BLKB",
+		"name": "Blackbaud, Inc.",
+		"price": 59.84,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 3600,
+		"region_id": "US"
+	},
+	{
+		"id": "LNT",
+		"name": "Alliant Energy Corporation",
+		"price": 59.75,
+		"sector": "Utilities",
+		"industry": "Utilities Regulated Electric",
+		"employees": 3313,
+		"region_id": "US"
+	},
+	{
+		"id": "MTSI",
+		"name": "MACOM Technology Solutions Holdings, Inc.",
+		"price": 59.57,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 1100,
+		"region_id": "US"
+	},
+	{
+		"id": "AMWD",
+		"name": "American Woodmark Corporation",
+		"price": 59.28,
+		"sector": "Consumer Cyclical",
+		"industry": "MILLWOOD VENEER PLYWOOD & STRUCTURAL WOOD MEMBERS",
+		"employees": 10000,
+		"region_id": "US"
+	},
+	{
+		"id": "FRHC",
+		"name": "Freedom Holding Corp.",
+		"price": 59.06,
+		"sector": "Financial Services",
+		"industry": "Capital Markets",
+		"employees": 2028,
+		"region_id": "US"
+	},
+	{
+		"id": "WABC",
+		"name": "Westamerica Bancorporation",
+		"price": 59.06,
+		"sector": "Financial Services",
+		"industry": "NATIONAL COMMERCIAL BANKS",
+		"employees": 534,
+		"region_id": "US"
+	},
+	{
+		"id": "GILD",
+		"name": "Gilead Sciences, Inc.",
+		"price": 59.0,
+		"sector": "Healthcare",
+		"industry": "BIOLOGICAL PRODUCTS (NO DISGNOSTIC SUBSTANCES)",
+		"employees": 14400,
+		"region_id": "US"
+	},
+	{
+		"id": "BANR",
+		"name": "Banner Corporation",
+		"price": 58.69,
+		"sector": "Financial Services",
+		"industry": "STATE COMMERCIAL BANKS",
+		"employees": 1891,
+		"region_id": "US"
+	},
+	{
+		"id": "BPMC",
+		"name": "Blueprint Medicines Corporation",
+		"price": 58.61,
+		"sector": "Healthcare",
+		"industry": "PHARMACEUTICAL PREPARATIONS",
+		"employees": 495,
+		"region_id": "US"
+	},
+	{
+		"id": "ON",
+		"name": "ON Semiconductor Corporation",
+		"price": 58.43,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 30000,
+		"region_id": "US"
+	},
+	{
+		"id": "BECN",
+		"name": "Beacon Roofing Supply, Inc.",
+		"price": 58.38,
+		"sector": "Industrials",
+		"industry": "WHOLESALE LUMBER & OTHER CONSTRUCTION MATERIALS",
+		"employees": 6676,
+		"region_id": "US"
+	},
+	{
+		"id": "AXNX",
+		"name": "Axonics, Inc.",
+		"price": 58.19,
+		"sector": "Healthcare",
+		"industry": "SURGICAL & MEDICAL INSTRUMENTS & APPARATUS",
+		"employees": 517,
+		"region_id": "US"
+	},
+	{
+		"id": "GFS",
+		"name": "GLOBALFOUNDRIES Inc.",
+		"price": 58.15,
+		"sector": "Technology",
+		"industry": "Semiconductors",
+		"employees": 15000,
+		"region_id": "US"
+	},
+	{
+		"id": "XPEL",
+		"name": "XPEL, Inc.",
+		"price": 58.15,
+		"sector": "Consumer Cyclical",
+		"industry": "COATING ENGRAVING & ALLIED SERVICES",
+		"employees": 709,
+		"region_id": "US"
+	},
+	{
+		"id": "CHKEW",
+		"name": "Chesapeake Energy Corporation",
+		"price": 57.82,
+		"sector": "OTHER",
+		"industry": "CRUDE PETROLEUM & NATURAL GAS",
+		"employees": 1300,
+		"region_id": "US"
+	},
+	{
+		"id": "SGMS",
+		"name": "Scientific Games Corporation",
+		"price": 57.71,
+		"sector": "Consumer Cyclical",
+		"industry": "COMPUTER INTEGRATED SYSTEMS DESIGN",
+		"employees": 5600,
+		"region_id": "US"
+	},
+	{
+		"id": "FWONK",
+		"name": "Formula One Group",
+		"price": 57.67,
+		"sector": "Consumer Cyclical",
+		"industry": "TELEVISION BROADCASTING STATIONS",
+		"employees": null,
+		"region_id": "US"
+	},
+	{
+		"id": "LSCC",
+		"name": "Lattice Semiconductor Corporation",
+		"price": 57.67,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 856,
+		"region_id": "US"
+	},
+	{
+		"id": "LOB",
+		"name": "Live Oak Bancshares, Inc.",
+		"price": 57.6,
+		"sector": "Financial Services",
+		"industry": "STATE COMMERCIAL BANKS",
+		"employees": 788,
+		"region_id": "US"
+	},
+	{
+		"id": "EGBN",
+		"name": "Eagle Bancorp, Inc.",
+		"price": 57.41,
+		"sector": "Financial Services",
+		"industry": "STATE COMMERCIAL BANKS",
+		"employees": 507,
+		"region_id": "US"
+	},
+	{
+		"id": "FRPH",
+		"name": "FRP Holdings, Inc.",
+		"price": 57.41,
+		"sector": "Real Estate",
+		"industry": "REAL ESTATE",
+		"employees": 13,
+		"region_id": "US"
+	},
+	{
+		"id": "ITCI",
+		"name": "Intra-Cellular Therapies, Inc.",
+		"price": 57.14,
+		"sector": "Healthcare",
+		"industry": "PHARMACEUTICAL PREPARATIONS",
+		"employees": 512,
+		"region_id": "US"
+	},
+	{
+		"id": "SEIC",
+		"name": "SEI Investments Company",
+		"price": 57.13,
+		"sector": "Financial Services",
+		"industry": "SECURITY BROKERS DEALERS & FLOTATION COMPANIES",
+		"employees": 4371,
+		"region_id": "US"
+	},
+	{
+		"id": "STRA",
+		"name": "Strategic Education, Inc.",
+		"price": 57.12,
+		"sector": "Consumer Defensive",
+		"industry": "EDUCATIONAL SERVICES",
+		"employees": 3742,
+		"region_id": "US"
+	},
+	{
+		"id": "FLGT",
+		"name": "Fulgent Genetics, Inc.",
+		"price": 57.05,
+		"sector": "Healthcare",
+		"industry": "MEDICAL LABORATORIES",
+		"employees": 645,
+		"region_id": "US"
+	},
+	{
+		"id": "CSGP",
+		"name": "CoStar Group, Inc.",
+		"price": 57.02,
+		"sector": "Real Estate",
+		"industry": "BUSINESS SERVICES NEC",
+		"employees": 4742,
+		"region_id": "US"
+	},
+	{
+		"id": "NVEI",
+		"name": "Nuvei Corporation",
+		"price": 57.0,
+		"sector": "Technology",
+		"industry": "Software Infrastructure",
+		"employees": 869,
+		"region_id": "US"
+	},
+	{
+		"id": "NVEC",
+		"name": "NVE Corporation",
+		"price": 56.81,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 46,
+		"region_id": "US"
+	},
+	{
+		"id": "SGRY",
+		"name": "Surgery Partners, Inc.",
+		"price": 56.74,
+		"sector": "Healthcare",
+		"industry": "GENERAL MEDICAL & SURGICAL HOSPITALS NEC",
+		"employees": 8300,
+		"region_id": "US"
+	},
+	{
+		"id": "ATEX",
+		"name": "Anterix Inc.",
+		"price": 56.7,
+		"sector": "Communication Services",
+		"industry": "TELEPHONE COMMUNICATIONS (NO RADIOTELEPHONE)",
+		"employees": 68,
+		"region_id": "US"
+	},
+	{
+		"id": "SRCL",
+		"name": "Stericycle, Inc.",
+		"price": 56.69,
+		"sector": "Industrials",
+		"industry": "HAZARDOUS WASTE MANAGEMENT",
+		"employees": 14550,
+		"region_id": "US"
+	},
+	{
+		"id": "NATH",
+		"name": "Nathan's Famous, Inc.",
+		"price": 56.6,
+		"sector": "Consumer Cyclical",
+		"industry": "RETAIL EATING PLACES",
+		"employees": 146,
+		"region_id": "US"
+	},
+	{
+		"id": "EPAY",
+		"name": "Bottomline Technologies, Inc.",
+		"price": 56.6,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 2344,
+		"region_id": "US"
+	},
+	{
+		"id": "APPN",
+		"name": "Appian Corporation",
+		"price": 56.36,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 1798,
+		"region_id": "US"
+	},
+	{
+		"id": "JOBS",
+		"name": "51job, Inc.",
+		"price": 56.23,
+		"sector": "Industrials",
+		"industry": "EMPLOYMENT AGENCIES",
+		"employees": 8431,
+		"region_id": "US"
+	},
+	{
+		"id": "SLMBP",
+		"name": "SLM Corporation",
+		"price": 56.1534,
+		"sector": "Financial Services",
+		"industry": "PERSONAL CREDIT INSTITUTIONS",
+		"employees": 1450,
+		"region_id": "US"
+	},
+	{
+		"id": "NUAN",
+		"name": "Nuance Communications, Inc.",
+		"price": 55.99,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 6900,
+		"region_id": "US"
+	},
+	{
+		"id": "CSCO",
+		"name": "Cisco Systems, Inc.",
+		"price": 55.92,
+		"sector": "Technology",
+		"industry": "COMPUTER COMMUNICATIONS EQUIPMENT",
+		"employees": 79500,
+		"region_id": "US"
+	},
+	{
+		"id": "PLCE",
+		"name": "The Children's Place, Inc.",
+		"price": 55.65,
+		"sector": "Consumer Cyclical",
+		"industry": "RETAIL FAMILY CLOTHING STORES",
+		"employees": 3600,
+		"region_id": "US"
+	},
+	{
+		"id": "QCRH",
+		"name": "QCR Holdings, Inc.",
+		"price": 55.11,
+		"sector": "Financial Services",
+		"industry": "STATE COMMERCIAL BANKS",
+		"employees": 726,
+		"region_id": "US"
+	},
+	{
+		"id": "AAON",
+		"name": "AAON, Inc.",
+		"price": 55.06,
+		"sector": "Industrials",
+		"industry": "AIR COND & WARM AIR HEATG EQUIP & COMM & INDL REFRIG EQUIP",
+		"employees": 2881,
+		"region_id": "US"
+	},
+	{
+		"id": "SAL",
+		"name": "Salisbury Bancorp, Inc.",
+		"price": 55.02,
+		"sector": "Financial Services",
+		"industry": "SAVINGS INSTITUTION FEDERALLY CHARTERED",
+		"employees": 174,
+		"region_id": "US"
+	},
+	{
+		"id": "INTG",
+		"name": "The InterGroup Corporation",
+		"price": 55.0,
+		"sector": "Consumer Cyclical",
+		"industry": "OPERATORS OF APARTMENT BUILDINGS",
+		"employees": 27,
+		"region_id": "US"
+	},
+	{
+		"id": "AEPPZ",
+		"name": "American Electric Power Company, Inc.",
+		"price": 54.93,
+		"sector": "Utilities",
+		"industry": "ELECTRIC SERVICES",
+		"employees": 16688,
+		"region_id": "US"
+	},
+	{
+		"id": "FAST",
+		"name": "Fastenal Company",
+		"price": 54.76,
+		"sector": "Industrials",
+		"industry": "RETAIL BUILDING MATERIALS HARDWARE GARDEN SUPPLY",
+		"employees": 18370,
+		"region_id": "US"
+	},
+	{
+		"id": "TENB",
+		"name": "Tenable Holdings, Inc.",
+		"price": 54.65,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 1617,
+		"region_id": "US"
+	},
+	{
+		"id": "SFST",
+		"name": "Southern First Bancshares, Inc.",
+		"price": 54.56,
+		"sector": "Financial Services",
+		"industry": "NATIONAL COMMERCIAL BANKS",
+		"employees": 254,
+		"region_id": "US"
+	},
+	{
+		"id": "FARO",
+		"name": "FARO Technologies, Inc.",
+		"price": 54.35,
+		"sector": "Technology",
+		"industry": "MEASURING & CONTROLLING DEVICES NEC",
+		"employees": 1432,
+		"region_id": "US"
+	},
+	{
+		"id": "NCSM",
+		"name": "NCS Multistage Holdings, Inc.",
+		"price": 54.213,
+		"sector": "Energy",
+		"industry": "OIL & GAS FIELD SERVICES NEC",
+		"employees": 191,
+		"region_id": "US"
+	},
+	{
+		"id": "CDLX",
+		"name": "Cardlytics, Inc.",
+		"price": 54.15,
+		"sector": "Communication Services",
+		"industry": "COMPUTER PROGRAMMING DATA PROCESSING ETC.",
+		"employees": 591,
+		"region_id": "US"
+	},
+	{
+		"id": "NUVA",
+		"name": "NuVasive, Inc.",
+		"price": 54.11,
+		"sector": "Healthcare",
+		"industry": "SURGICAL & MEDICAL INSTRUMENTS & APPARATUS",
+		"employees": 2900,
+		"region_id": "US"
+	},
+	{
+		"id": "HQY",
+		"name": "HealthEquity, Inc.",
+		"price": 54.02,
+		"sector": "Healthcare",
+		"industry": "BUSINESS SERVICES NEC",
+		"employees": 3001,
+		"region_id": "US"
+	},
+	{
+		"id": "KROS",
+		"name": "Keros Therapeutics, Inc.",
+		"price": 53.96,
+		"sector": "Healthcare",
+		"industry": "PHARMACEUTICAL PREPARATIONS",
+		"employees": 45,
+		"region_id": "US"
+	},
+	{
+		"id": "IEP",
+		"name": "Icahn Enterprises L.P.",
+		"price": 53.93,
+		"sector": "Industrials",
+		"industry": "MOTOR VEHICLE PARTS & ACCESSORIES",
+		"employees": 19536,
+		"region_id": "US"
+	},
+	{
+		"id": "GDEN",
+		"name": "Golden Entertainment, Inc.",
+		"price": 53.81,
+		"sector": "Consumer Cyclical",
+		"industry": "MISCELLANEOUS AMUSEMENT & RECREATION",
+		"employees": 6300,
+		"region_id": "US"
+	},
+	{
+		"id": "ZI",
+		"name": "ZoomInfo Technologies Inc.",
+		"price": 53.5,
+		"sector": "Technology",
+		"industry": "PREPACKAGED SOFTWARE",
+		"employees": 2742,
+		"region_id": "US"
+	},
+	{
+		"id": "EBAY",
+		"name": "eBay Inc.",
+		"price": 53.06,
+		"sector": "Consumer Cyclical",
+		"industry": "BUSINESS SERVICES NEC",
+		"employees": 10800,
+		"region_id": "US"
+	},
+	{
+		"id": "OMAB",
+		"name": "Grupo Aeroportuario del Centro Norte, S.A.B. de C.V.",
+		"price": 52.98,
+		"sector": "Industrials",
+		"industry": "AIRPORTS FLYING FIELDS & AIRPORT TERMINAL SERVICES",
+		"employees": 1100,
+		"region_id": "US"
+	},
+	{
+		"id": "KIDS",
+		"name": "OrthoPediatrics Corp.",
+		"price": 52.97,
+		"sector": "Healthcare",
+		"industry": "SURGICAL & MEDICAL INSTRUMENTS & APPARATUS",
+		"employees": 133,
+		"region_id": "US"
+	},
+	{
+		"id": "HWC",
+		"name": "Hancock Whitney Corporation",
+		"price": 52.87,
+		"sector": "Financial Services",
+		"industry": "STATE COMMERCIAL BANKS",
+		"employees": 3486,
+		"region_id": "US"
+	},
+	{
+		"id": "CHKEZ",
+		"name": "Chesapeake Energy Corporation",
+		"price": 52.83,
+		"sector": "OTHER",
+		"industry": "CRUDE PETROLEUM & NATURAL GAS",
+		"employees": 1300,
+		"region_id": "US"
+	},
+	{
+		"id": "KLIC",
+		"name": "Kulicke and Soffa Industries, Inc.",
+		"price": 52.6,
+		"sector": "Technology",
+		"industry": "SEMICONDUCTORS & RELATED DEVICES",
+		"employees": 3602,
+		"region_id": "US"
+	},
+	{
+		"id": "LNTH",
+		"name": "Lantheus Holdings, Inc.",
+		"price": 52.51,
+		"sector": "Healthcare",
+		"industry": "IN VITRO & IN VIVO DIAGNOSTIC SUBSTANCES",
+		"employees": 612,
+		"region_id": "US"
+	},
+	{
+		"id": "GBCI",
+		"name": "Glacier Bancorp, Inc.",
+		"price": 52.42,
+		"sector": "Financial Services",
+		"industry": "STATE COMMERCIAL BANKS",
+		"employees": 3270,
+		"region_id": "US"
+	},
+	{
+		"id": "FWONA",
+		"name": "Formula One Group",
+		"price": 52.33,
+		"sector": "Consumer Cyclical",
+		"industry": "TELEVISION BROADCASTING STATIONS",
+		"employees": 6667,
+		"region_id": "US"
+	},
+	{
+		"id": "PLUS",
+		"name": "ePlus inc.",
+		"price": 52.09,
+		"sector": "Technology",
+		"industry": "WHOLESALE COMPUTERS & PERIPHERAL EQUIPMENT & SOFTWARE",
+		"employees": 1554,
+		"region_id": "US"
+	},
+	{
+		"id": "FORR",
+		"name": "Forrester Research, Inc.",
+		"price": 52.06,
+		"sector": "Industrials",
+		"industry": "ENGINEERING ACCOUNTING RESEARCH MANAGEMENT",
+		"employees": 1781,
+		"region_id": "US"
+	},
+	{
+		"id": "STFC",
+		"name": "State Auto Financial Corporation",
+		"price": 52.01,
+		"sector": "Financial Services",
+		"industry": "FIRE MARINE & CASUALTY INSURANCE",
+		"employees": 2025,
+		"region_id": "US"
+	},
+	{
+		"id": "SNY",
+		"name": "Sanofi",
+		"price": 51.925,
+		"sector": "Healthcare",
+		"industry": "PHARMACEUTICAL PREPARATIONS",
+		"employees": 95442,
+		"region_id": "US"
+	},
+	{
+		"id": "OSTK",
+		"name": "Overstock.com, Inc.",
+		"price": 51.57,
+		"sector": "Consumer Cyclical",
+		"industry": "RETAIL CATALOG & MAIL ORDER HOUSES",
+		"employees": 1350,
+		"region_id": "US"
+	},
+	{
+		"id": "SYBT",
+		"name": "Stock Yards Bancorp, Inc.",
+		"price": 51.56,
+		"sector": "Financial Services",
+		"industry": "STATE COMMERCIAL BANKS",
+		"employees": 820,
+		"region_id": "US"
+	},
+	{
+		"id": "MRF.NS",
+		"name": "MRF Limited",
+		"price": 74105.0,
+		"employees": 12779,
+		"region_id": "IN",
+		"sector": "Consumer Cyclical",
+		"industry": "Auto Parts"
+	},
+	{
+		"id": "PAGEIND.NS",
+		"name": "Page Industries Limited",
+		"price": 42568.6,
+		"employees": 24728,
+		"region_id": "IN",
+		"sector": "Consumer Cyclical",
+		"industry": "Apparel Manufacturing"
+	},
+	{
+		"id": "HONAUT.NS",
+		"name": "Honeywell Automation India Limited",
+		"price": 31470.9,
+		"employees": 26920,
+		"region_id": "IN",
+		"sector": "Industrials",
+		"industry": "Electrical Equipment & Parts"
+	},
+	{
+		"id": "SHREECEM.NS",
+		"name": "Shree Cement Limited",
+		"price": 22001.2,
+		"employees": 29660,
+		"region_id": "IN",
+		"sector": "Basic Materials",
+		"industry": "Building Materials"
+	},
+	{
+		"id": "3MINDIA.NS",
+		"name": "3M India Limited",
+		"price": 17995.9,
+		"employees": 43003,
+		"region_id": "IN",
+		"sector": "Industrials",
+		"industry": "Conglomerates"
+	},
+	{
+		"id": "ABBOTINDIA.NS",
+		"name": "Abbott India Limited",
+		"price": 17950.4,
+		"employees": 37332,
+		"region_id": "IN",
+		"sector": "Healthcare",
+		"industry": "Drug Manufacturers\\u2014General"
+	},
+	{
+		"id": "NESTLEIND.NS",
+		"name": "Nestl\\u00e9 India Limited",
+		"price": 16862.0,
+		"employees": 39093,
+		"region_id": "IN",
+		"sector": "Consumer Defensive",
+		"industry": "Packaged Foods"
+	},
+	{
+		"id": "BOSCHLTD.NS",
+		"name": "Bosch Limited",
+		"price": 14175.2,
+		"employees": 39486,
+		"region_id": "IN",
+		"sector": "Consumer Cyclical",
+		"industry": "Auto Parts"
+	},
+	{
+		"id": "PGHH.NS",
+		"name": "Procter & Gamble Hygiene and Health Care Limited",
+		"price": 13177.2,
+		"employees": 24384,
+		"region_id": "IN",
+		"sector": "Consumer Defensive",
+		"industry": "Household & Personal Products"
+	},
+	{
+		"id": "BAJAJFINSV.NS",
+		"name": "Bajaj Finserv Ltd.",
+		"price": 12561.7,
+		"employees": 31178,
+		"region_id": "IN",
+		"sector": "Financial Services",
+		"industry": "Financial Conglomerates"
+	}
+]

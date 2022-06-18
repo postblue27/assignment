@@ -1,0 +1,55 @@
+.company-card {
+    font-family: 'Roboto', sans-serif;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+.company-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.company-header-item-end {
+    display: flex;
+    align-self: center;
+}
+.label-text {
+    color: rgb(150,150,150);
+}
+.ml-1 {
+    margin-left: 1vw;
+}
+.info-text {
+    color: black;
+    font-weight: 700;
+}
+.card-body {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.card-body-item {
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+}
+.card-body-item span {
+    margin-top: 10px;
+    font-weight: 500;
+}
+.company-description {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 1.8em;
+}
+.full-text {
+    -webkit-line-clamp: unset;
+}
+.read-more-button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 2vh;
+}
